@@ -1,0 +1,1185 @@
+Dot Point Measurements																									
+																									
+"Generated: Tuesday, November 20, 2018 15:07:32"																									
+																									
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	Broad	Morphology	Type	FieldOfView	Relief	Bedforms	Bedform.type	CODE	Radius %
+POC11001_L378.avi	24934	1820.4293	136	193													Open Water			Open					100
+POC11001_L378.avi	24934	1820.4293	405	193													Open Water			Open					89.8
+POC11001_L378.avi	24934	1820.4293	675	193													Open Water			Open					89.8
+POC11001_L378.avi	24934	1820.4293	944	193													Octocoral/Black	Whip		Open	3. Good relief structure with some overhangs. >45 substrate slope.	Bioturbated		11168917	100
+POC11001_L378.avi	24934	1820.4293	136	576													Open Water			Open					64.3
+POC11001_L378.avi	24934	1820.4293	405	576													Open Water			Open					46.9
+POC11001_L378.avi	24934	1820.4293	675	576													Open Water			Open					46.9
+POC11001_L378.avi	24934	1820.4293	944	576													Octocoral/Black	Branching (3D)	Type 1	Open	3. Good relief structure with some overhangs. >45 substrate slope.	Bioturbated		11168902	64.3
+POC11001_L378.avi	24934	1820.4293	136	960													Open Water			Open					46.6
+POC11001_L378.avi	24934	1820.4293	405	960													Open Water			Open					15.5
+POC11001_L378.avi	24934	1820.4293	675	960													Open Water			Open					15.5
+POC11001_L378.avi	24934	1820.4293	944	960													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	46.6
+POC11001_L378.avi	24934	1820.4293	136	1344													Open Water			Open					64.3
+POC11001_L378.avi	24934	1820.4293	405	1344													Open Water			Open					46.9
+POC11001_L378.avi	24934	1820.4293	675	1344													Open Water			Open					46.9
+POC11001_L378.avi	24934	1820.4293	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	64.3
+POC11001_L378.avi	24934	1820.4293	136	1727													Open Water			Open					100
+POC11001_L378.avi	24934	1820.4293	405	1727													Open Water			Open					89.8
+POC11001_L378.avi	24934	1820.4293	675	1727													Open Water			Open					89.8
+POC11001_L378.avi	24934	1820.4293	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	100
+POC11002_L373.avi	23125	1917.598	136	193													Open Water			Open					100
+POC11002_L373.avi	23125	1917.598	405	193													Open Water			Open					89.8
+POC11002_L373.avi	23125	1917.598	675	193													Unconsolidated	Sand / mud (coarse sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001014	89.8
+POC11002_L373.avi	23125	1917.598	944	193													Unconsolidated	Sand / mud (coarse sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001014	100
+POC11002_L373.avi	23125	1917.598	136	576													Open Water			Open					64.3
+POC11002_L373.avi	23125	1917.598	405	576													Open Water			Open					46.9
+POC11002_L373.avi	23125	1917.598	675	576													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	46.9
+POC11002_L373.avi	23125	1917.598	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC11002_L373.avi	23125	1917.598	136	960													Open Water			Open					46.6
+POC11002_L373.avi	23125	1917.598	405	960													Open Water			Open					15.5
+POC11002_L373.avi	23125	1917.598	675	960													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	15.5
+POC11002_L373.avi	23125	1917.598	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	46.6
+POC11002_L373.avi	23125	1917.598	136	1344													Open Water			Open					64.3
+POC11002_L373.avi	23125	1917.598	405	1344													Open Water			Open					46.9
+POC11002_L373.avi	23125	1917.598	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	46.9
+POC11002_L373.avi	23125	1917.598	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC11002_L373.avi	23125	1917.598	136	1727													Open Water			Open					100
+POC11002_L373.avi	23125	1917.598	405	1727													Open Water			Open					89.8
+POC11002_L373.avi	23125	1917.598	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	89.8
+POC11002_L373.avi	23125	1917.598	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	100
+POC11003_L375.avi	13644	2007.3013	136	193													Open Water			Open					100
+POC11003_L375.avi	13644	2007.3013	405	193													Open Water			Open					89.8
+POC11003_L375.avi	13644	2007.3013	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	89.8
+POC11003_L375.avi	13644	2007.3013	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	100
+POC11003_L375.avi	13644	2007.3013	136	576													Open Water			Open					64.3
+POC11003_L375.avi	13644	2007.3013	405	576													Open Water			Open					46.9
+POC11003_L375.avi	13644	2007.3013	675	576													Unconsolidated	Sand / mud (fine sand)		Open	3. Good relief structure with some overhangs. >45 substrate slope.	Bioturbated		82001015	46.9
+POC11003_L375.avi	13644	2007.3013	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC11003_L375.avi	13644	2007.3013	136	960													Open Water			Open					46.6
+POC11003_L375.avi	13644	2007.3013	405	960													Open Water			Open					15.5
+POC11003_L375.avi	13644	2007.3013	675	960													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	15.5
+POC11003_L375.avi	13644	2007.3013	944	960													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	46.6
+POC11003_L375.avi	13644	2007.3013	136	1344													Open Water			Open					64.3
+POC11003_L375.avi	13644	2007.3013	405	1344													Open Water			Open					46.9
+POC11003_L375.avi	13644	2007.3013	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	46.9
+POC11003_L375.avi	13644	2007.3013	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	64.3
+POC11003_L375.avi	13644	2007.3013	136	1727													Open Water			Open					100
+POC11003_L375.avi	13644	2007.3013	405	1727													Open Water			Open					89.8
+POC11003_L375.avi	13644	2007.3013	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	89.8
+POC11003_L375.avi	13644	2007.3013	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	100
+POC11004_R368.avi	27832	2113.1427	136	193													Open Water			Open					100
+POC11004_R368.avi	27832	2113.1427	405	193													Open Water			Open					89.8
+POC11004_R368.avi	27832	2113.1427	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC11004_R368.avi	27832	2113.1427	944	193													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	None		82001015	100
+POC11004_R368.avi	27832	2113.1427	136	576													Open Water			Open					64.3
+POC11004_R368.avi	27832	2113.1427	405	576													Open Water			Open					46.9
+POC11004_R368.avi	27832	2113.1427	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC11004_R368.avi	27832	2113.1427	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC11004_R368.avi	27832	2113.1427	136	960													Open Water			Open					46.6
+POC11004_R368.avi	27832	2113.1427	405	960													Open Water			Open					15.5
+POC11004_R368.avi	27832	2113.1427	675	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	15.5
+POC11004_R368.avi	27832	2113.1427	944	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.6
+POC11004_R368.avi	27832	2113.1427	136	1344													Open Water			Open					64.3
+POC11004_R368.avi	27832	2113.1427	405	1344													Open Water			Open					46.9
+POC11004_R368.avi	27832	2113.1427	675	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.9
+POC11004_R368.avi	27832	2113.1427	944	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC11004_R368.avi	27832	2113.1427	136	1727													Open Water			Open					100
+POC11004_R368.avi	27832	2113.1427	405	1727													Open Water			Open					89.8
+POC11004_R368.avi	27832	2113.1427	675	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	89.8
+POC11004_R368.avi	27832	2113.1427	944	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC11005_L372.avi	47270	4204.3673	136	193													Open Water			Open					100
+POC11005_L372.avi	47270	4204.3673	405	193													Open Water			Open					89.8
+POC11005_L372.avi	47270	4204.3673	675	193													Open Water			Open					89.8
+POC11005_L372.avi	47270	4204.3673	944	193													Octocoral/Black	Branching (3D)	Type 1	Open	3. Good relief structure with some overhangs. >45 substrate slope.	None		11168902	100
+POC11005_L372.avi	47270	4204.3673	136	576													Open Water			Open					64.3
+POC11005_L372.avi	47270	4204.3673	405	576													Open Water			Open					46.9
+POC11005_L372.avi	47270	4204.3673	675	576													Open Water			Open					46.9
+POC11005_L372.avi	47270	4204.3673	944	576													Octocoral/Black	Branching (3D)	Type 2	Open	3. Good relief structure with some overhangs. >45 substrate slope.	None		11168902	64.3
+POC11005_L372.avi	47270	4204.3673	136	960													Open Water			Open					46.6
+POC11005_L372.avi	47270	4204.3673	405	960													Open Water			Open					15.5
+POC11005_L372.avi	47270	4204.3673	675	960													Open Water			Open					15.5
+POC11005_L372.avi	47270	4204.3673	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC11005_L372.avi	47270	4204.3673	136	1344													Open Water			Open					64.3
+POC11005_L372.avi	47270	4204.3673	405	1344													Open Water			Open					46.9
+POC11005_L372.avi	47270	4204.3673	675	1344													Open Water			Open					46.9
+POC11005_L372.avi	47270	4204.3673	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11005_L372.avi	47270	4204.3673	136	1727													Open Water			Open					100
+POC11005_L372.avi	47270	4204.3673	405	1727													Open Water			Open					89.8
+POC11005_L372.avi	47270	4204.3673	675	1727													Open Water			Open					89.8
+POC11005_L372.avi	47270	4204.3673	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11009_L376.avi	18255	12.17	136	193													Open Water			Open					100
+POC11009_L376.avi	18255	12.17	405	193													Open Water			Open					89.8
+POC11009_L376.avi	18255	12.17	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC11009_L376.avi	18255	12.17	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11009_L376.avi	18255	12.17	136	576													Open Water			Open					64.3
+POC11009_L376.avi	18255	12.17	405	576													Open Water			Open					46.9
+POC11009_L376.avi	18255	12.17	675	576													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	46.9
+POC11009_L376.avi	18255	12.17	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11009_L376.avi	18255	12.17	136	960													Open Water			Open					46.6
+POC11009_L376.avi	18255	12.17	405	960													Open Water			Open					15.5
+POC11009_L376.avi	18255	12.17	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC11009_L376.avi	18255	12.17	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC11009_L376.avi	18255	12.17	136	1344													Open Water			Open					64.3
+POC11009_L376.avi	18255	12.17	405	1344													Open Water			Open					46.9
+POC11009_L376.avi	18255	12.17	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC11009_L376.avi	18255	12.17	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11009_L376.avi	18255	12.17	136	1727													Open Water			Open					100
+POC11009_L376.avi	18255	12.17	405	1727													Open Water			Open					89.8
+POC11009_L376.avi	18255	12.17	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC11009_L376.avi	18255	12.17	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11010_R368.avi	14601	117.4053	136	193													Open Water			Open					100
+POC11010_R368.avi	14601	117.4053	405	193													Open Water			Open					89.8
+POC11010_R368.avi	14601	117.4053	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC11010_R368.avi	14601	117.4053	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11010_R368.avi	14601	117.4053	136	576													Open Water			Open					64.3
+POC11010_R368.avi	14601	117.4053	405	576													Open Water			Open					46.9
+POC11010_R368.avi	14601	117.4053	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC11010_R368.avi	14601	117.4053	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11010_R368.avi	14601	117.4053	136	960													Open Water			Open					46.6
+POC11010_R368.avi	14601	117.4053	405	960													Open Water			Open					15.5
+POC11010_R368.avi	14601	117.4053	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC11010_R368.avi	14601	117.4053	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC11010_R368.avi	14601	117.4053	136	1344													Open Water			Open					64.3
+POC11010_R368.avi	14601	117.4053	405	1344													Open Water			Open					46.9
+POC11010_R368.avi	14601	117.4053	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC11010_R368.avi	14601	117.4053	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11010_R368.avi	14601	117.4053	136	1727													Open Water			Open					100
+POC11010_R368.avi	14601	117.4053	405	1727													Open Water			Open					89.8
+POC11010_R368.avi	14601	117.4053	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC11010_R368.avi	14601	117.4053	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11011_L376.avi	58253	2235.0367	136	193													Open Water			Open					100
+POC11011_L376.avi	58253	2235.0367	405	193													Open Water			Open					89.8
+POC11011_L376.avi	58253	2235.0367	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC11011_L376.avi	58253	2235.0367	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11011_L376.avi	58253	2235.0367	136	576													Open Water			Open					64.3
+POC11011_L376.avi	58253	2235.0367	405	576													Open Water			Open					46.9
+POC11011_L376.avi	58253	2235.0367	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC11011_L376.avi	58253	2235.0367	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11011_L376.avi	58253	2235.0367	136	960													Open Water			Open					46.6
+POC11011_L376.avi	58253	2235.0367	405	960													Open Water			Open					15.5
+POC11011_L376.avi	58253	2235.0367	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC11011_L376.avi	58253	2235.0367	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC11011_L376.avi	58253	2235.0367	136	1344													Open Water			Open					64.3
+POC11011_L376.avi	58253	2235.0367	405	1344													Open Water			Open					46.9
+POC11011_L376.avi	58253	2235.0367	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC11011_L376.avi	58253	2235.0367	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11011_L376.avi	58253	2235.0367	136	1727													Open Water			Open					100
+POC11011_L376.avi	58253	2235.0367	405	1727													Open Water			Open					89.8
+POC11011_L376.avi	58253	2235.0367	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC11011_L376.avi	58253	2235.0367	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11012_L374.avi	24524	2294.446	136	193													Open Water			Open					100
+POC11012_L374.avi	24524	2294.446	405	193													Open Water			Open					89.8
+POC11012_L374.avi	24524	2294.446	675	193													Open Water			Open					89.8
+POC11012_L374.avi	24524	2294.446	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11012_L374.avi	24524	2294.446	136	576													Open Water			Open					64.3
+POC11012_L374.avi	24524	2294.446	405	576													Open Water			Open					46.9
+POC11012_L374.avi	24524	2294.446	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC11012_L374.avi	24524	2294.446	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11012_L374.avi	24524	2294.446	136	960													Open Water			Open					46.6
+POC11012_L374.avi	24524	2294.446	405	960													Open Water			Open					15.5
+POC11012_L374.avi	24524	2294.446	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC11012_L374.avi	24524	2294.446	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC11012_L374.avi	24524	2294.446	136	1344													Open Water			Open					64.3
+POC11012_L374.avi	24524	2294.446	405	1344													Open Water			Open					46.9
+POC11012_L374.avi	24524	2294.446	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC11012_L374.avi	24524	2294.446	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11012_L374.avi	24524	2294.446	136	1727													Open Water			Open					100
+POC11012_L374.avi	24524	2294.446	405	1727													Open Water			Open					89.8
+POC11012_L374.avi	24524	2294.446	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC11012_L374.avi	24524	2294.446	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11013_L.avi	78534	4930.0167	136	193													Open Water			Open					100
+POC11013_L.avi	78534	4930.0167	405	193													Open Water			Open					89.8
+POC11013_L.avi	78534	4930.0167	675	193													Open Water			Open					89.8
+POC11013_L.avi	78534	4930.0167	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11013_L.avi	78534	4930.0167	136	576													Open Water			Open					64.3
+POC11013_L.avi	78534	4930.0167	405	576													Open Water			Open					46.9
+POC11013_L.avi	78534	4930.0167	675	576													Open Water			Open					46.9
+POC11013_L.avi	78534	4930.0167	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11013_L.avi	78534	4930.0167	136	960													Open Water			Open					46.6
+POC11013_L.avi	78534	4930.0167	405	960													Open Water			Open					15.5
+POC11013_L.avi	78534	4930.0167	675	960													Open Water			Open					15.5
+POC11013_L.avi	78534	4930.0167	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC11013_L.avi	78534	4930.0167	136	1344													Open Water			Open					64.3
+POC11013_L.avi	78534	4930.0167	405	1344													Open Water			Open					46.9
+POC11013_L.avi	78534	4930.0167	675	1344													Open Water			Open					46.9
+POC11013_L.avi	78534	4930.0167	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11013_L.avi	78534	4930.0167	136	1727													Open Water			Open					100
+POC11013_L.avi	78534	4930.0167	405	1727													Open Water			Open					89.8
+POC11013_L.avi	78534	4930.0167	675	1727													Open Water			Open					89.8
+POC11013_L.avi	78534	4930.0167	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11014_L.avi	52529	5004.1347	136	193													Open Water			Open					100
+POC11014_L.avi	52529	5004.1347	405	193													Open Water			Open					89.8
+POC11014_L.avi	52529	5004.1347	675	193													Open Water			Open					89.8
+POC11014_L.avi	52529	5004.1347	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11014_L.avi	52529	5004.1347	136	576													Open Water			Open					64.3
+POC11014_L.avi	52529	5004.1347	405	576													Open Water			Open					46.9
+POC11014_L.avi	52529	5004.1347	675	576													Open Water			Open					46.9
+POC11014_L.avi	52529	5004.1347	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11014_L.avi	52529	5004.1347	136	960													Open Water			Open					46.6
+POC11014_L.avi	52529	5004.1347	405	960													Open Water			Open					15.5
+POC11014_L.avi	52529	5004.1347	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC11014_L.avi	52529	5004.1347	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC11014_L.avi	52529	5004.1347	136	1344													Open Water			Open					64.3
+POC11014_L.avi	52529	5004.1347	405	1344													Open Water			Open					46.9
+POC11014_L.avi	52529	5004.1347	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC11014_L.avi	52529	5004.1347	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11014_L.avi	52529	5004.1347	136	1727													Open Water			Open					100
+POC11014_L.avi	52529	5004.1347	405	1727													Open Water			Open					89.8
+POC11014_L.avi	52529	5004.1347	675	1727													Open Water			Open					89.8
+POC11014_L.avi	52529	5004.1347	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11015_L367.avi	62259	5109.2293	136	193													Open Water			Open					100
+POC11015_L367.avi	62259	5109.2293	405	193													Open Water			Open					89.8
+POC11015_L367.avi	62259	5109.2293	675	193													Open Water			Open					89.8
+POC11015_L367.avi	62259	5109.2293	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC11015_L367.avi	62259	5109.2293	136	576													Open Water			Open					64.3
+POC11015_L367.avi	62259	5109.2293	405	576													Open Water			Open					46.9
+POC11015_L367.avi	62259	5109.2293	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC11015_L367.avi	62259	5109.2293	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC11015_L367.avi	62259	5109.2293	136	960													Open Water			Open					46.6
+POC11015_L367.avi	62259	5109.2293	405	960													Open Water			Open					15.5
+POC11015_L367.avi	62259	5109.2293	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC11015_L367.avi	62259	5109.2293	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC11015_L367.avi	62259	5109.2293	136	1344													Open Water			Open					64.3
+POC11015_L367.avi	62259	5109.2293	405	1344													Open Water			Open					46.9
+POC11015_L367.avi	62259	5109.2293	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC11015_L367.avi	62259	5109.2293	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC11015_L367.avi	62259	5109.2293	136	1727													Open Water			Open					100
+POC11015_L367.avi	62259	5109.2293	405	1727													Open Water			Open					89.8
+POC11015_L367.avi	62259	5109.2293	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC11015_L367.avi	62259	5109.2293	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC12001_L371.avi	46138	4309.068	136	193													Open Water			Open					100
+POC12001_L371.avi	46138	4309.068	405	193													Open Water			Open					89.8
+POC12001_L371.avi	46138	4309.068	675	193													Open Water			Open					89.8
+POC12001_L371.avi	46138	4309.068	944	193													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	None		82001015	100
+POC12001_L371.avi	46138	4309.068	136	576													Open Water			Open					64.3
+POC12001_L371.avi	46138	4309.068	405	576													Open Water			Open					46.9
+POC12001_L371.avi	46138	4309.068	675	576													Open Water			Open					46.9
+POC12001_L371.avi	46138	4309.068	944	576													Octocoral/Black	Branching (3D)	Type 2	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	None		11168902	64.3
+POC12001_L371.avi	46138	4309.068	136	960													Open Water			Open					46.6
+POC12001_L371.avi	46138	4309.068	405	960													Open Water			Open					15.5
+POC12001_L371.avi	46138	4309.068	675	960													Open Water			Open					15.5
+POC12001_L371.avi	46138	4309.068	944	960													Octocoral/Black	Branching (3D)	Type 1	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	None		11168902	46.6
+POC12001_L371.avi	46138	4309.068	136	1344													Open Water			Open					64.3
+POC12001_L371.avi	46138	4309.068	405	1344													Open Water			Open					46.9
+POC12001_L371.avi	46138	4309.068	675	1344													Open Water			Open					46.9
+POC12001_L371.avi	46138	4309.068	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	None		82001015	64.3
+POC12001_L371.avi	46138	4309.068	136	1727													Open Water			Open					100
+POC12001_L371.avi	46138	4309.068	405	1727													Open Water			Open					89.8
+POC12001_L371.avi	46138	4309.068	675	1727													Open Water			Open					89.8
+POC12001_L371.avi	46138	4309.068	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC12002_L367.avi	29249	4382.96	136	193													Open Water			Open					100
+POC12002_L367.avi	29249	4382.96	405	193													Open Water			Open					89.8
+POC12002_L367.avi	29249	4382.96	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC12002_L367.avi	29249	4382.96	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC12002_L367.avi	29249	4382.96	136	576													Open Water			Open					64.3
+POC12002_L367.avi	29249	4382.96	405	576													Open Water			Open					46.9
+POC12002_L367.avi	29249	4382.96	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC12002_L367.avi	29249	4382.96	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC12002_L367.avi	29249	4382.96	136	960													Open Water			Open					46.6
+POC12002_L367.avi	29249	4382.96	405	960													Open Water			Open					15.5
+POC12002_L367.avi	29249	4382.96	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC12002_L367.avi	29249	4382.96	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	46.6
+POC12002_L367.avi	29249	4382.96	136	1344													Open Water			Open					64.3
+POC12002_L367.avi	29249	4382.96	405	1344													Open Water			Open					46.9
+POC12002_L367.avi	29249	4382.96	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC12002_L367.avi	29249	4382.96	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC12002_L367.avi	29249	4382.96	136	1727													Open Water			Open					100
+POC12002_L367.avi	29249	4382.96	405	1727													Open Water			Open					89.8
+POC12002_L367.avi	29249	4382.96	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC12002_L367.avi	29249	4382.96	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC12003_L375.avi	12800	4463.5773	136	193													Open Water			Open					100
+POC12003_L375.avi	12800	4463.5773	405	193													Open Water			Open					89.8
+POC12003_L375.avi	12800	4463.5773	675	193													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	89.8
+POC12003_L375.avi	12800	4463.5773	944	193													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	100
+POC12003_L375.avi	12800	4463.5773	136	576													Open Water			Open					64.3
+POC12003_L375.avi	12800	4463.5773	405	576													Octocoral/Black	Branching (3D)	Type 1	Open	3. Good relief structure with some overhangs. >45 substrate slope.	None		11168902	46.9
+POC12003_L375.avi	12800	4463.5773	675	576													Octocoral/Black	Branching (3D)	Type 2	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	None		11168902	46.9
+POC12003_L375.avi	12800	4463.5773	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC12003_L375.avi	12800	4463.5773	136	960													Open Water			Open					46.6
+POC12003_L375.avi	12800	4463.5773	405	960													Octocoral/Black	Branching (3D)	Type 1	Open	3. Good relief structure with some overhangs. >45 substrate slope.	None		11168902	15.5
+POC12003_L375.avi	12800	4463.5773	675	960													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	15.5
+POC12003_L375.avi	12800	4463.5773	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	46.6
+POC12003_L375.avi	12800	4463.5773	136	1344													Open Water			Open					64.3
+POC12003_L375.avi	12800	4463.5773	405	1344													Octocoral/Black	Branching (3D)	Type 1	Open	3. Good relief structure with some overhangs. >45 substrate slope.	None		11168902	46.9
+POC12003_L375.avi	12800	4463.5773	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	46.9
+POC12003_L375.avi	12800	4463.5773	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC12003_L375.avi	12800	4463.5773	136	1727													Open Water			Open					100
+POC12003_L375.avi	12800	4463.5773	405	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	89.8
+POC12003_L375.avi	12800	4463.5773	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	89.8
+POC12003_L375.avi	12800	4463.5773	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	None		82001015	100
+POC12004_L.avi	19696	4566.59	136	193													Open Water			Open					100
+POC12004_L.avi	19696	4566.59	405	193													Open Water			Open					89.8
+POC12004_L.avi	19696	4566.59	675	193													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	89.8
+POC12004_L.avi	19696	4566.59	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	100
+POC12004_L.avi	19696	4566.59	136	576													Open Water			Open					64.3
+POC12004_L.avi	19696	4566.59	405	576													Open Water			Open					46.9
+POC12004_L.avi	19696	4566.59	675	576													Octocoral/Black	Whip		Open	3. Good relief structure with some overhangs. >45 substrate slope.	None		11168917	46.9
+POC12004_L.avi	19696	4566.59	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC12004_L.avi	19696	4566.59	136	960													Open Water			Open					46.6
+POC12004_L.avi	19696	4566.59	405	960													Octocoral/Black	Branching (3D)	Type 1	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	None		11168902	15.5
+POC12004_L.avi	19696	4566.59	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC12004_L.avi	19696	4566.59	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC12004_L.avi	19696	4566.59	136	1344													Open Water			Open					64.3
+POC12004_L.avi	19696	4566.59	405	1344													Octocoral/Black	Branching (3D)	Type 2	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	None		11168902	46.9
+POC12004_L.avi	19696	4566.59	675	1344													Octocoral/Black	Fan (2D)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	None		11168912	46.9
+POC12004_L.avi	19696	4566.59	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC12004_L.avi	19696	4566.59	136	1727													Open Water			Open					100
+POC12004_L.avi	19696	4566.59	405	1727													Open Water			Open					89.8
+POC12004_L.avi	19696	4566.59	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	None		82001015	89.8
+POC12004_L.avi	19696	4566.59	944	1727													Octocoral/Black	Fan (2D)		Open	3. Good relief structure with some overhangs. >45 substrate slope.	None		11168912	100
+POC12005_L377.avi	33008	2386.718	136	193													Open Water			Open					100
+POC12005_L377.avi	33008	2386.718	405	193													Open Water			Open					89.8
+POC12005_L377.avi	33008	2386.718	675	193													Octocoral/Black	Branching (3D)	Type 1	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		11168902	89.8
+POC12005_L377.avi	33008	2386.718	944	193													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	100
+POC12005_L377.avi	33008	2386.718	136	576													Open Water			Open					64.3
+POC12005_L377.avi	33008	2386.718	405	576													Open Water			Open					46.9
+POC12005_L377.avi	33008	2386.718	675	576													Octocoral/Black	Branching (3D)	Type 1	Open	3. Good relief structure with some overhangs. >45 substrate slope.	Bioturbated		11168902	46.9
+POC12005_L377.avi	33008	2386.718	944	576													Octocoral/Black	Branching (3D)	Type 2	Open	3. Good relief structure with some overhangs. >45 substrate slope.	Bioturbated		11168902	64.3
+POC12005_L377.avi	33008	2386.718	136	960													Open Water			Open					46.6
+POC12005_L377.avi	33008	2386.718	405	960													Open Water			Open					15.5
+POC12005_L377.avi	33008	2386.718	675	960													Octocoral/Black	Branching (3D)	Type 2	Open	3. Good relief structure with some overhangs. >45 substrate slope.	Bioturbated		11168902	15.5
+POC12005_L377.avi	33008	2386.718	944	960													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	46.6
+POC12005_L377.avi	33008	2386.718	136	1344													Open Water			Open					64.3
+POC12005_L377.avi	33008	2386.718	405	1344													Open Water			Open					46.9
+POC12005_L377.avi	33008	2386.718	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	46.9
+POC12005_L377.avi	33008	2386.718	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	64.3
+POC12005_L377.avi	33008	2386.718	136	1727													Open Water			Open					100
+POC12005_L377.avi	33008	2386.718	405	1727													Open Water			Open					89.8
+POC12005_L377.avi	33008	2386.718	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	89.8
+POC12005_L377.avi	33008	2386.718	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	100
+POC12006_R368.avi	26626	232.5727	136	193													Open Water			Open					100
+POC12006_R368.avi	26626	232.5727	405	193													Open Water			Open					89.8
+POC12006_R368.avi	26626	232.5727	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC12006_R368.avi	26626	232.5727	944	193													Unconsolidated	Sand / mud (fine sand)		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		82001015	100
+POC12006_R368.avi	26626	232.5727	136	576													Open Water			Open					64.3
+POC12006_R368.avi	26626	232.5727	405	576													Open Water			Open					46.9
+POC12006_R368.avi	26626	232.5727	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC12006_R368.avi	26626	232.5727	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC12006_R368.avi	26626	232.5727	136	960													Open Water			Open					46.6
+POC12006_R368.avi	26626	232.5727	405	960													Open Water			Open					15.5
+POC12006_R368.avi	26626	232.5727	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC12006_R368.avi	26626	232.5727	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC12006_R368.avi	26626	232.5727	136	1344													Open Water			Open					64.3
+POC12006_R368.avi	26626	232.5727	405	1344													Open Water			Open					46.9
+POC12006_R368.avi	26626	232.5727	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC12006_R368.avi	26626	232.5727	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC12006_R368.avi	26626	232.5727	136	1727													Open Water			Open					100
+POC12006_R368.avi	26626	232.5727	405	1727													Open Water			Open					89.8
+POC12006_R368.avi	26626	232.5727	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC12006_R368.avi	26626	232.5727	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC12007_R375.avi	26148	314.9647	136	193													Open Water			Open					100
+POC12007_R375.avi	26148	314.9647	405	193													Open Water			Open					89.8
+POC12007_R375.avi	26148	314.9647	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC12007_R375.avi	26148	314.9647	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC12007_R375.avi	26148	314.9647	136	576													Open Water			Open					64.3
+POC12007_R375.avi	26148	314.9647	405	576													Open Water			Open					46.9
+POC12007_R375.avi	26148	314.9647	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC12007_R375.avi	26148	314.9647	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC12007_R375.avi	26148	314.9647	136	960													Open Water			Open					46.6
+POC12007_R375.avi	26148	314.9647	405	960													Open Water			Open					15.5
+POC12007_R375.avi	26148	314.9647	675	960													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	15.5
+POC12007_R375.avi	26148	314.9647	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC12007_R375.avi	26148	314.9647	136	1344													Open Water			Open					64.3
+POC12007_R375.avi	26148	314.9647	405	1344													Open Water			Open					46.9
+POC12007_R375.avi	26148	314.9647	675	1344													Open Water			Open					46.9
+POC12007_R375.avi	26148	314.9647	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC12007_R375.avi	26148	314.9647	136	1727													Open Water			Open					100
+POC12007_R375.avi	26148	314.9647	405	1727													Open Water			Open					89.8
+POC12007_R375.avi	26148	314.9647	675	1727													Open Water			Open					89.8
+POC12007_R375.avi	26148	314.9647	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC12008_L373.avi	35132	406.7613	136	193													Open Water			Open					100
+POC12008_L373.avi	35132	406.7613	405	193													Open Water			Open					89.8
+POC12008_L373.avi	35132	406.7613	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC12008_L373.avi	35132	406.7613	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC12008_L373.avi	35132	406.7613	136	576													Open Water			Open					64.3
+POC12008_L373.avi	35132	406.7613	405	576													Open Water			Open					46.9
+POC12008_L373.avi	35132	406.7613	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC12008_L373.avi	35132	406.7613	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC12008_L373.avi	35132	406.7613	136	960													Open Water			Open					46.6
+POC12008_L373.avi	35132	406.7613	405	960													Open Water			Open					15.5
+POC12008_L373.avi	35132	406.7613	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC12008_L373.avi	35132	406.7613	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC12008_L373.avi	35132	406.7613	136	1344													Open Water			Open					64.3
+POC12008_L373.avi	35132	406.7613	405	1344													Open Water			Open					46.9
+POC12008_L373.avi	35132	406.7613	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC12008_L373.avi	35132	406.7613	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC12008_L373.avi	35132	406.7613	136	1727													Open Water			Open					100
+POC12008_L373.avi	35132	406.7613	405	1727													Open Water			Open					89.8
+POC12008_L373.avi	35132	406.7613	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC12008_L373.avi	35132	406.7613	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC12009_R378.avi	17699	489.642	136	193													Open Water			Open					100
+POC12009_R378.avi	17699	489.642	405	193													Open Water			Open					89.8
+POC12009_R378.avi	17699	489.642	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC12009_R378.avi	17699	489.642	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC12009_R378.avi	17699	489.642	136	576													Open Water			Open					64.3
+POC12009_R378.avi	17699	489.642	405	576													Open Water			Open					46.9
+POC12009_R378.avi	17699	489.642	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC12009_R378.avi	17699	489.642	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC12009_R378.avi	17699	489.642	136	960													Open Water			Open					46.6
+POC12009_R378.avi	17699	489.642	405	960													Open Water			Open					15.5
+POC12009_R378.avi	17699	489.642	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC12009_R378.avi	17699	489.642	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC12009_R378.avi	17699	489.642	136	1344													Open Water			Open					64.3
+POC12009_R378.avi	17699	489.642	405	1344													Open Water			Open					46.9
+POC12009_R378.avi	17699	489.642	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC12009_R378.avi	17699	489.642	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC12009_R378.avi	17699	489.642	136	1727													Open Water			Open					100
+POC12009_R378.avi	17699	489.642	405	1727													Open Water			Open					89.8
+POC12009_R378.avi	17699	489.642	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC12009_R378.avi	17699	489.642	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC12010_L372.avi	40688	605.6393	136	193													Open Water			Open					100
+POC12010_L372.avi	40688	605.6393	405	193													Open Water			Open					89.8
+POC12010_L372.avi	40688	605.6393	675	193													Open Water			Open					89.8
+POC12010_L372.avi	40688	605.6393	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC12010_L372.avi	40688	605.6393	136	576													Open Water			Open					64.3
+POC12010_L372.avi	40688	605.6393	405	576													Open Water			Open					46.9
+POC12010_L372.avi	40688	605.6393	675	576													Open Water			Open					46.9
+POC12010_L372.avi	40688	605.6393	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC12010_L372.avi	40688	605.6393	136	960													Open Water			Open					46.6
+POC12010_L372.avi	40688	605.6393	405	960													Open Water			Open					15.5
+POC12010_L372.avi	40688	605.6393	675	960													Open Water			Open					15.5
+POC12010_L372.avi	40688	605.6393	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	46.6
+POC12010_L372.avi	40688	605.6393	136	1344													Open Water			Open					64.3
+POC12010_L372.avi	40688	605.6393	405	1344													Open Water			Open					46.9
+POC12010_L372.avi	40688	605.6393	675	1344													Open Water			Open					46.9
+POC12010_L372.avi	40688	605.6393	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC12010_L372.avi	40688	605.6393	136	1727													Open Water			Open					100
+POC12010_L372.avi	40688	605.6393	405	1727													Open Water			Open					89.8
+POC12010_L372.avi	40688	605.6393	675	1727													Open Water			Open					89.8
+POC12010_L372.avi	40688	605.6393	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13001_L377.avi	105415	2542.1313	136	193													Open Water			Open					100
+POC13001_L377.avi	105415	2542.1313	405	193													Open Water			Open					89.8
+POC13001_L377.avi	105415	2542.1313	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC13001_L377.avi	105415	2542.1313	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13001_L377.avi	105415	2542.1313	136	576													Open Water			Open					64.3
+POC13001_L377.avi	105415	2542.1313	405	576													Open Water			Open					46.9
+POC13001_L377.avi	105415	2542.1313	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC13001_L377.avi	105415	2542.1313	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC13001_L377.avi	105415	2542.1313	136	960													Open Water			Open					46.6
+POC13001_L377.avi	105415	2542.1313	405	960													Open Water			Open					15.5
+POC13001_L377.avi	105415	2542.1313	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC13001_L377.avi	105415	2542.1313	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC13001_L377.avi	105415	2542.1313	136	1344													Open Water			Open					64.3
+POC13001_L377.avi	105415	2542.1313	405	1344													Open Water			Open					46.9
+POC13001_L377.avi	105415	2542.1313	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC13001_L377.avi	105415	2542.1313	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC13001_L377.avi	105415	2542.1313	136	1727													Open Water			Open					100
+POC13001_L377.avi	105415	2542.1313	405	1727													Open Water			Open					89.8
+POC13001_L377.avi	105415	2542.1313	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC13001_L377.avi	105415	2542.1313	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13002_L373.avi	24280	2569.1207	136	193													Open Water			Open					100
+POC13002_L373.avi	24280	2569.1207	405	193													Open Water			Open					89.8
+POC13002_L373.avi	24280	2569.1207	675	193													Open Water			Open					89.8
+POC13002_L373.avi	24280	2569.1207	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13002_L373.avi	24280	2569.1207	136	576													Open Water			Open					64.3
+POC13002_L373.avi	24280	2569.1207	405	576													Open Water			Open					46.9
+POC13002_L373.avi	24280	2569.1207	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC13002_L373.avi	24280	2569.1207	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC13002_L373.avi	24280	2569.1207	136	960													Open Water			Open					46.6
+POC13002_L373.avi	24280	2569.1207	405	960													Open Water			Open					15.5
+POC13002_L373.avi	24280	2569.1207	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC13002_L373.avi	24280	2569.1207	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC13002_L373.avi	24280	2569.1207	136	1344													Open Water			Open					64.3
+POC13002_L373.avi	24280	2569.1207	405	1344													Open Water			Open					46.9
+POC13002_L373.avi	24280	2569.1207	675	1344													Open Water			Open					46.9
+POC13002_L373.avi	24280	2569.1207	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC13002_L373.avi	24280	2569.1207	136	1727													Open Water			Open					100
+POC13002_L373.avi	24280	2569.1207	405	1727													Open Water			Open					89.8
+POC13002_L373.avi	24280	2569.1207	675	1727													Open Water			Open					89.8
+POC13002_L373.avi	24280	2569.1207	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13003_L375.avi	80543	2691.8693	136	193													Open Water			Open					100
+POC13003_L375.avi	80543	2691.8693	405	193													Open Water			Open					89.8
+POC13003_L375.avi	80543	2691.8693	675	193													Open Water			Open					89.8
+POC13003_L375.avi	80543	2691.8693	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	100
+POC13003_L375.avi	80543	2691.8693	136	576													Open Water			Open					64.3
+POC13003_L375.avi	80543	2691.8693	405	576													Open Water			Open					46.9
+POC13003_L375.avi	80543	2691.8693	675	576													Open Water			Open					46.9
+POC13003_L375.avi	80543	2691.8693	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC13003_L375.avi	80543	2691.8693	136	960													Open Water			Open					46.6
+POC13003_L375.avi	80543	2691.8693	405	960													Open Water			Open					15.5
+POC13003_L375.avi	80543	2691.8693	675	960													Open Water			Open					15.5
+POC13003_L375.avi	80543	2691.8693	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC13003_L375.avi	80543	2691.8693	136	1344													Open Water			Open					64.3
+POC13003_L375.avi	80543	2691.8693	405	1344													Open Water			Open					46.9
+POC13003_L375.avi	80543	2691.8693	675	1344													Open Water			Open					46.9
+POC13003_L375.avi	80543	2691.8693	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC13003_L375.avi	80543	2691.8693	136	1727													Open Water			Open					100
+POC13003_L375.avi	80543	2691.8693	405	1727													Open Water			Open					89.8
+POC13003_L375.avi	80543	2691.8693	675	1727													Open Water			Open					89.8
+POC13003_L375.avi	80543	2691.8693	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13004_L367.avi	93771	2791.152	136	193													Open Water			Open					100
+POC13004_L367.avi	93771	2791.152	405	193													Open Water			Open					89.8
+POC13004_L367.avi	93771	2791.152	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	89.8
+POC13004_L367.avi	93771	2791.152	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13004_L367.avi	93771	2791.152	136	576													Open Water			Open					64.3
+POC13004_L367.avi	93771	2791.152	405	576													Open Water			Open					46.9
+POC13004_L367.avi	93771	2791.152	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC13004_L367.avi	93771	2791.152	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC13004_L367.avi	93771	2791.152	136	960													Open Water			Open					46.6
+POC13004_L367.avi	93771	2791.152	405	960													Open Water			Open					15.5
+POC13004_L367.avi	93771	2791.152	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC13004_L367.avi	93771	2791.152	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC13004_L367.avi	93771	2791.152	136	1344													Open Water			Open					64.3
+POC13004_L367.avi	93771	2791.152	405	1344													Open Water			Open					46.9
+POC13004_L367.avi	93771	2791.152	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC13004_L367.avi	93771	2791.152	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC13004_L367.avi	93771	2791.152	136	1727													Open Water			Open					100
+POC13004_L367.avi	93771	2791.152	405	1727													Open Water			Open					89.8
+POC13004_L367.avi	93771	2791.152	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	89.8
+POC13004_L367.avi	93771	2791.152	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13005_L371.avi	23078	2842.5993	136	193													Open Water			Open					100
+POC13005_L371.avi	23078	2842.5993	405	193													Open Water			Open					89.8
+POC13005_L371.avi	23078	2842.5993	675	193													Open Water			Open					89.8
+POC13005_L371.avi	23078	2842.5993	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13005_L371.avi	23078	2842.5993	136	576													Open Water			Open					64.3
+POC13005_L371.avi	23078	2842.5993	405	576													Open Water			Open					46.9
+POC13005_L371.avi	23078	2842.5993	675	576													Open Water			Open					46.9
+POC13005_L371.avi	23078	2842.5993	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC13005_L371.avi	23078	2842.5993	136	960													Open Water			Open					46.6
+POC13005_L371.avi	23078	2842.5993	405	960													Open Water			Open					15.5
+POC13005_L371.avi	23078	2842.5993	675	960													Open Water			Open					15.5
+POC13005_L371.avi	23078	2842.5993	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC13005_L371.avi	23078	2842.5993	136	1344													Open Water			Open					64.3
+POC13005_L371.avi	23078	2842.5993	405	1344													Open Water			Open					46.9
+POC13005_L371.avi	23078	2842.5993	675	1344													Open Water			Open					46.9
+POC13005_L371.avi	23078	2842.5993	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC13005_L371.avi	23078	2842.5993	136	1727													Open Water			Open					100
+POC13005_L371.avi	23078	2842.5993	405	1727													Open Water			Open					89.8
+POC13005_L371.avi	23078	2842.5993	675	1727													Open Water			Open					89.8
+POC13005_L371.avi	23078	2842.5993	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13007_L378.avi	18130	699.0807	136	193													Open Water			Open					100
+POC13007_L378.avi	18130	699.0807	405	193													Open Water			Open					89.8
+POC13007_L378.avi	18130	699.0807	675	193													Open Water			Open					89.8
+POC13007_L378.avi	18130	699.0807	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13007_L378.avi	18130	699.0807	136	576													Open Water			Open					64.3
+POC13007_L378.avi	18130	699.0807	405	576													Open Water			Open					46.9
+POC13007_L378.avi	18130	699.0807	675	576													Open Water			Open					46.9
+POC13007_L378.avi	18130	699.0807	944	576													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	64.3
+POC13007_L378.avi	18130	699.0807	136	960													Open Water			Open					46.6
+POC13007_L378.avi	18130	699.0807	405	960													Open Water			Open					15.5
+POC13007_L378.avi	18130	699.0807	675	960													Open Water			Open					15.5
+POC13007_L378.avi	18130	699.0807	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC13007_L378.avi	18130	699.0807	136	1344													Open Water			Open					64.3
+POC13007_L378.avi	18130	699.0807	405	1344													Open Water			Open					46.9
+POC13007_L378.avi	18130	699.0807	675	1344													Open Water			Open					46.9
+POC13007_L378.avi	18130	699.0807	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC13007_L378.avi	18130	699.0807	136	1727													Open Water			Open					100
+POC13007_L378.avi	18130	699.0807	405	1727													Open Water			Open					89.8
+POC13007_L378.avi	18130	699.0807	675	1727													Open Water			Open					89.8
+POC13007_L378.avi	18130	699.0807	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13008_R373.avi	17387	788.4973	136	193													Open Water			Open					100
+POC13008_R373.avi	17387	788.4973	405	193													Open Water			Open					89.8
+POC13008_R373.avi	17387	788.4973	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC13008_R373.avi	17387	788.4973	944	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001014	100
+POC13008_R373.avi	17387	788.4973	136	576													Open Water			Open					64.3
+POC13008_R373.avi	17387	788.4973	405	576													Open Water			Open					46.9
+POC13008_R373.avi	17387	788.4973	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC13008_R373.avi	17387	788.4973	944	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001014	64.3
+POC13008_R373.avi	17387	788.4973	136	960													Open Water			Open					46.6
+POC13008_R373.avi	17387	788.4973	405	960													Open Water			Open					15.5
+POC13008_R373.avi	17387	788.4973	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC13008_R373.avi	17387	788.4973	944	960													Unconsolidated	Sand / mud (coarse sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001014	46.6
+POC13008_R373.avi	17387	788.4973	136	1344													Open Water			Open					64.3
+POC13008_R373.avi	17387	788.4973	405	1344													Open Water			Open					46.9
+POC13008_R373.avi	17387	788.4973	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	46.9
+POC13008_R373.avi	17387	788.4973	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	64.3
+POC13008_R373.avi	17387	788.4973	136	1727													Open Water			Open					100
+POC13008_R373.avi	17387	788.4973	405	1727													Open Water			Open					89.8
+POC13008_R373.avi	17387	788.4973	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	89.8
+POC13008_R373.avi	17387	788.4973	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13009_L375.avi	19975	887.7807	136	193													Open Water			Open					100
+POC13009_L375.avi	19975	887.7807	405	193													Open Water			Open					89.8
+POC13009_L375.avi	19975	887.7807	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC13009_L375.avi	19975	887.7807	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13009_L375.avi	19975	887.7807	136	576													Open Water			Open					64.3
+POC13009_L375.avi	19975	887.7807	405	576													Open Water			Open					46.9
+POC13009_L375.avi	19975	887.7807	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	46.9
+POC13009_L375.avi	19975	887.7807	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC13009_L375.avi	19975	887.7807	136	960													Open Water			Open					46.6
+POC13009_L375.avi	19975	887.7807	405	960													Open Water			Open					15.5
+POC13009_L375.avi	19975	887.7807	675	960													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	15.5
+POC13009_L375.avi	19975	887.7807	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC13009_L375.avi	19975	887.7807	136	1344													Open Water			Open					64.3
+POC13009_L375.avi	19975	887.7807	405	1344													Open Water			Open					46.9
+POC13009_L375.avi	19975	887.7807	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC13009_L375.avi	19975	887.7807	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC13009_L375.avi	19975	887.7807	136	1727													Open Water			Open					100
+POC13009_L375.avi	19975	887.7807	405	1727													Open Water			Open					89.8
+POC13009_L375.avi	19975	887.7807	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC13009_L375.avi	19975	887.7807	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13010_L368.avi	87786	4719.372	136	193													Open Water			Open					100
+POC13010_L368.avi	87786	4719.372	405	193													Open Water			Open					89.8
+POC13010_L368.avi	87786	4719.372	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC13010_L368.avi	87786	4719.372	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC13010_L368.avi	87786	4719.372	136	576													Open Water			Open					64.3
+POC13010_L368.avi	87786	4719.372	405	576													Open Water			Open					46.9
+POC13010_L368.avi	87786	4719.372	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC13010_L368.avi	87786	4719.372	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC13010_L368.avi	87786	4719.372	136	960													Open Water			Open					46.6
+POC13010_L368.avi	87786	4719.372	405	960													Open Water			Open					15.5
+POC13010_L368.avi	87786	4719.372	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC13010_L368.avi	87786	4719.372	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC13010_L368.avi	87786	4719.372	136	1344													Open Water			Open					64.3
+POC13010_L368.avi	87786	4719.372	405	1344													Open Water			Open					46.9
+POC13010_L368.avi	87786	4719.372	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC13010_L368.avi	87786	4719.372	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC13010_L368.avi	87786	4719.372	136	1727													Open Water			Open					100
+POC13010_L368.avi	87786	4719.372	405	1727													Open Water			Open					89.8
+POC13010_L368.avi	87786	4719.372	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	89.8
+POC13010_L368.avi	87786	4719.372	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC24006_L367.avi	27744	5175.7553	136	193													Open Water			Open					100
+POC24006_L367.avi	27744	5175.7553	405	193													Open Water			Open					89.8
+POC24006_L367.avi	27744	5175.7553	675	193													Open Water			Open					89.8
+POC24006_L367.avi	27744	5175.7553	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC24006_L367.avi	27744	5175.7553	136	576													Open Water			Open					64.3
+POC24006_L367.avi	27744	5175.7553	405	576													Open Water			Open					46.9
+POC24006_L367.avi	27744	5175.7553	675	576													Open Water			Open					46.9
+POC24006_L367.avi	27744	5175.7553	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC24006_L367.avi	27744	5175.7553	136	960													Open Water			Open					46.6
+POC24006_L367.avi	27744	5175.7553	405	960													Open Water			Open					15.5
+POC24006_L367.avi	27744	5175.7553	675	960													Open Water			Open					15.5
+POC24006_L367.avi	27744	5175.7553	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC24006_L367.avi	27744	5175.7553	136	1344													Open Water			Open					64.3
+POC24006_L367.avi	27744	5175.7553	405	1344													Open Water			Open					46.9
+POC24006_L367.avi	27744	5175.7553	675	1344													Open Water			Open					46.9
+POC24006_L367.avi	27744	5175.7553	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC24006_L367.avi	27744	5175.7553	136	1727													Open Water			Open					100
+POC24006_L367.avi	27744	5175.7553	405	1727													Open Water			Open					89.8
+POC24006_L367.avi	27744	5175.7553	675	1727													Open Water			Open					89.8
+POC24006_L367.avi	27744	5175.7553	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC24007_L371.avi	80823	5291.1413	136	193													Open Water			Open					100
+POC24007_L371.avi	80823	5291.1413	405	193													Open Water			Open					89.8
+POC24007_L371.avi	80823	5291.1413	675	193													Open Water			Open					89.8
+POC24007_L371.avi	80823	5291.1413	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	100
+POC24007_L371.avi	80823	5291.1413	136	576													Open Water			Open					64.3
+POC24007_L371.avi	80823	5291.1413	405	576													Open Water			Open					46.9
+POC24007_L371.avi	80823	5291.1413	675	576													Open Water			Open					46.9
+POC24007_L371.avi	80823	5291.1413	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC24007_L371.avi	80823	5291.1413	136	960													Open Water			Open					46.6
+POC24007_L371.avi	80823	5291.1413	405	960													Open Water			Open					15.5
+POC24007_L371.avi	80823	5291.1413	675	960													Open Water			Open					15.5
+POC24007_L371.avi	80823	5291.1413	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	46.6
+POC24007_L371.avi	80823	5291.1413	136	1344													Open Water			Open					64.3
+POC24007_L371.avi	80823	5291.1413	405	1344													Open Water			Open					46.9
+POC24007_L371.avi	80823	5291.1413	675	1344													Open Water			Open					46.9
+POC24007_L371.avi	80823	5291.1413	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	64.3
+POC24007_L371.avi	80823	5291.1413	136	1727													Open Water			Open					100
+POC24007_L371.avi	80823	5291.1413	405	1727													Open Water			Open					89.8
+POC24007_L371.avi	80823	5291.1413	675	1727													Open Water			Open					89.8
+POC24007_L371.avi	80823	5291.1413	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC24008_L377.avi	53669	5360.0467	136	193													Open Water			Open					100
+POC24008_L377.avi	53669	5360.0467	405	193													Open Water			Open					89.8
+POC24008_L377.avi	53669	5360.0467	675	193													Open Water			Open					89.8
+POC24008_L377.avi	53669	5360.0467	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	100
+POC24008_L377.avi	53669	5360.0467	136	576													Open Water			Open					64.3
+POC24008_L377.avi	53669	5360.0467	405	576													Open Water			Open					46.9
+POC24008_L377.avi	53669	5360.0467	675	576													Open Water			Open					46.9
+POC24008_L377.avi	53669	5360.0467	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	64.3
+POC24008_L377.avi	53669	5360.0467	136	960													Open Water			Open					46.6
+POC24008_L377.avi	53669	5360.0467	405	960													Open Water			Open					15.5
+POC24008_L377.avi	53669	5360.0467	675	960													Open Water			Open					15.5
+POC24008_L377.avi	53669	5360.0467	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	46.6
+POC24008_L377.avi	53669	5360.0467	136	1344													Open Water			Open					64.3
+POC24008_L377.avi	53669	5360.0467	405	1344													Open Water			Open					46.9
+POC24008_L377.avi	53669	5360.0467	675	1344													Open Water			Open					46.9
+POC24008_L377.avi	53669	5360.0467	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	64.3
+POC24008_L377.avi	53669	5360.0467	136	1727													Open Water			Open					100
+POC24008_L377.avi	53669	5360.0467	405	1727													Open Water			Open					89.8
+POC24008_L377.avi	53669	5360.0467	675	1727													Open Water			Open					89.8
+POC24008_L377.avi	53669	5360.0467	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	100
+POC24009_L374.avi	35904	5443.5627	136	193													Open Water			Open					100
+POC24009_L374.avi	35904	5443.5627	405	193													Open Water			Open					89.8
+POC24009_L374.avi	35904	5443.5627	675	193													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	3D	Ripples (<10cm height)	82001015	89.8
+POC24009_L374.avi	35904	5443.5627	944	193													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	3D	Ripples (<10cm height)	82001015	100
+POC24009_L374.avi	35904	5443.5627	136	576													Open Water			Open					64.3
+POC24009_L374.avi	35904	5443.5627	405	576													Open Water			Open					46.9
+POC24009_L374.avi	35904	5443.5627	675	576													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	3D	Ripples (<10cm height)	82001015	46.9
+POC24009_L374.avi	35904	5443.5627	944	576													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	3D	Ripples (<10cm height)	82001015	64.3
+POC24009_L374.avi	35904	5443.5627	136	960													Open Water			Open					46.6
+POC24009_L374.avi	35904	5443.5627	405	960													Open Water			Open					15.5
+POC24009_L374.avi	35904	5443.5627	675	960													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	3D	Ripples (<10cm height)	82001015	15.5
+POC24009_L374.avi	35904	5443.5627	944	960													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	3D	Ripples (<10cm height)	82001015	46.6
+POC24009_L374.avi	35904	5443.5627	136	1344													Open Water			Open					64.3
+POC24009_L374.avi	35904	5443.5627	405	1344													Open Water			Open					46.9
+POC24009_L374.avi	35904	5443.5627	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	3D	Ripples (<10cm height)	82001015	46.9
+POC24009_L374.avi	35904	5443.5627	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	3D	Ripples (<10cm height)	82001015	64.3
+POC24009_L374.avi	35904	5443.5627	136	1727													Open Water			Open					100
+POC24009_L374.avi	35904	5443.5627	405	1727													Open Water			Open					89.8
+POC24009_L374.avi	35904	5443.5627	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	3D	Ripples (<10cm height)	82001015	89.8
+POC24009_L374.avi	35904	5443.5627	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	3D	Ripples (<10cm height)	82001015	100
+POC24010_L376.avi	53047	5557.7593	136	193													Open Water			Open					100
+POC24010_L376.avi	53047	5557.7593	405	193													Open Water			Open					89.8
+POC24010_L376.avi	53047	5557.7593	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	89.8
+POC24010_L376.avi	53047	5557.7593	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	100
+POC24010_L376.avi	53047	5557.7593	136	576													Open Water			Open					64.3
+POC24010_L376.avi	53047	5557.7593	405	576													Open Water			Open					46.9
+POC24010_L376.avi	53047	5557.7593	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	46.9
+POC24010_L376.avi	53047	5557.7593	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	64.3
+POC24010_L376.avi	53047	5557.7593	136	960													Open Water			Open					46.6
+POC24010_L376.avi	53047	5557.7593	405	960													Open Water			Open					15.5
+POC24010_L376.avi	53047	5557.7593	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	15.5
+POC24010_L376.avi	53047	5557.7593	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	46.6
+POC24010_L376.avi	53047	5557.7593	136	1344													Open Water			Open					64.3
+POC24010_L376.avi	53047	5557.7593	405	1344													Open Water			Open					46.9
+POC24010_L376.avi	53047	5557.7593	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	46.9
+POC24010_L376.avi	53047	5557.7593	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	64.3
+POC24010_L376.avi	53047	5557.7593	136	1727													Open Water			Open					100
+POC24010_L376.avi	53047	5557.7593	405	1727													Open Water			Open					89.8
+POC24010_L376.avi	53047	5557.7593	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	89.8
+POC24010_L376.avi	53047	5557.7593	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	2D	Ripples (<10cm height)	82001015	100
+POC25001_L375.avi	94417	1025.9527	136	193													Open Water			Open					100
+POC25001_L375.avi	94417	1025.9527	405	193													Open Water			Open					89.8
+POC25001_L375.avi	94417	1025.9527	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC25001_L375.avi	94417	1025.9527	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC25001_L375.avi	94417	1025.9527	136	576													Open Water			Open					64.3
+POC25001_L375.avi	94417	1025.9527	405	576													Open Water			Open					46.9
+POC25001_L375.avi	94417	1025.9527	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC25001_L375.avi	94417	1025.9527	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC25001_L375.avi	94417	1025.9527	136	960													Open Water			Open					46.6
+POC25001_L375.avi	94417	1025.9527	405	960													Open Water			Open					15.5
+POC25001_L375.avi	94417	1025.9527	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC25001_L375.avi	94417	1025.9527	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC25001_L375.avi	94417	1025.9527	136	1344													Open Water			Open					64.3
+POC25001_L375.avi	94417	1025.9527	405	1344													Open Water			Open					46.9
+POC25001_L375.avi	94417	1025.9527	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC25001_L375.avi	94417	1025.9527	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC25001_L375.avi	94417	1025.9527	136	1727													Open Water			Open					100
+POC25001_L375.avi	94417	1025.9527	405	1727													Open Water			Open					89.8
+POC25001_L375.avi	94417	1025.9527	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC25001_L375.avi	94417	1025.9527	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC25002_R373.avi	58405	1088.5847	136	193													Open Water			Open					100
+POC25002_R373.avi	58405	1088.5847	405	193													Open Water			Open					89.8
+POC25002_R373.avi	58405	1088.5847	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC25002_R373.avi	58405	1088.5847	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC25002_R373.avi	58405	1088.5847	136	576													Open Water			Open					64.3
+POC25002_R373.avi	58405	1088.5847	405	576													Open Water			Open					46.9
+POC25002_R373.avi	58405	1088.5847	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC25002_R373.avi	58405	1088.5847	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC25002_R373.avi	58405	1088.5847	136	960													Open Water			Open					46.6
+POC25002_R373.avi	58405	1088.5847	405	960													Open Water			Open					15.5
+POC25002_R373.avi	58405	1088.5847	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC25002_R373.avi	58405	1088.5847	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC25002_R373.avi	58405	1088.5847	136	1344													Open Water			Open					64.3
+POC25002_R373.avi	58405	1088.5847	405	1344													Open Water			Open					46.9
+POC25002_R373.avi	58405	1088.5847	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC25002_R373.avi	58405	1088.5847	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC25002_R373.avi	58405	1088.5847	136	1727													Open Water			Open					100
+POC25002_R373.avi	58405	1088.5847	405	1727													Open Water			Open					89.8
+POC25002_R373.avi	58405	1088.5847	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC25002_R373.avi	58405	1088.5847	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC25004_R372.avi	17632	1147.2507	136	193													Open Water			Open					100
+POC25004_R372.avi	17632	1147.2507	405	193													Open Water			Open					89.8
+POC25004_R372.avi	17632	1147.2507	675	193													Open Water			Open					89.8
+POC25004_R372.avi	17632	1147.2507	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC25004_R372.avi	17632	1147.2507	136	576													Open Water			Open					64.3
+POC25004_R372.avi	17632	1147.2507	405	576													Open Water			Open					46.9
+POC25004_R372.avi	17632	1147.2507	675	576													Open Water			Open					46.9
+POC25004_R372.avi	17632	1147.2507	944	576													Octocoral/Black	Branching (3D)	Type 1	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	Bioturbated		11168902	64.3
+POC25004_R372.avi	17632	1147.2507	136	960													Open Water			Open					46.6
+POC25004_R372.avi	17632	1147.2507	405	960													Open Water			Open					15.5
+POC25004_R372.avi	17632	1147.2507	675	960													Open Water			Open					15.5
+POC25004_R372.avi	17632	1147.2507	944	960													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	Bioturbated		82001015	46.6
+POC25004_R372.avi	17632	1147.2507	136	1344													Open Water			Open					64.3
+POC25004_R372.avi	17632	1147.2507	405	1344													Open Water			Open					46.9
+POC25004_R372.avi	17632	1147.2507	675	1344													Open Water			Open					46.9
+POC25004_R372.avi	17632	1147.2507	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC25004_R372.avi	17632	1147.2507	136	1727													Open Water			Open					100
+POC25004_R372.avi	17632	1147.2507	405	1727													Open Water			Open					89.8
+POC25004_R372.avi	17632	1147.2507	675	1727													Open Water			Open					89.8
+POC25004_R372.avi	17632	1147.2507	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC25005_R368.avi	94144	1304.8173	136	193													Open Water			Open					100
+POC25005_R368.avi	94144	1304.8173	405	193													Open Water			Open					89.8
+POC25005_R368.avi	94144	1304.8173	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC25005_R368.avi	94144	1304.8173	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC25005_R368.avi	94144	1304.8173	136	576													Open Water			Open					64.3
+POC25005_R368.avi	94144	1304.8173	405	576													Open Water			Open					46.9
+POC25005_R368.avi	94144	1304.8173	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC25005_R368.avi	94144	1304.8173	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC25005_R368.avi	94144	1304.8173	136	960													Open Water			Open					46.6
+POC25005_R368.avi	94144	1304.8173	405	960													Open Water			Open					15.5
+POC25005_R368.avi	94144	1304.8173	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC25005_R368.avi	94144	1304.8173	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC25005_R368.avi	94144	1304.8173	136	1344													Open Water			Open					64.3
+POC25005_R368.avi	94144	1304.8173	405	1344													Open Water			Open					46.9
+POC25005_R368.avi	94144	1304.8173	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC25005_R368.avi	94144	1304.8173	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC25005_R368.avi	94144	1304.8173	136	1727													Open Water			Open					100
+POC25005_R368.avi	94144	1304.8173	405	1727													Open Water			Open					89.8
+POC25005_R368.avi	94144	1304.8173	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC25005_R368.avi	94144	1304.8173	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC26001_L376.avi	42125	2950.7853	136	193													Open Water			Open					100
+POC26001_L376.avi	42125	2950.7853	405	193													Open Water			Open					89.8
+POC26001_L376.avi	42125	2950.7853	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC26001_L376.avi	42125	2950.7853	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC26001_L376.avi	42125	2950.7853	136	576													Open Water			Open					64.3
+POC26001_L376.avi	42125	2950.7853	405	576													Open Water			Open					46.9
+POC26001_L376.avi	42125	2950.7853	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC26001_L376.avi	42125	2950.7853	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC26001_L376.avi	42125	2950.7853	136	960													Open Water			Open					46.6
+POC26001_L376.avi	42125	2950.7853	405	960													Open Water			Open					15.5
+POC26001_L376.avi	42125	2950.7853	675	960													Open Water			Open					15.5
+POC26001_L376.avi	42125	2950.7853	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC26001_L376.avi	42125	2950.7853	136	1344													Open Water			Open					64.3
+POC26001_L376.avi	42125	2950.7853	405	1344													Open Water			Open					46.9
+POC26001_L376.avi	42125	2950.7853	675	1344													Open Water			Open					46.9
+POC26001_L376.avi	42125	2950.7853	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC26001_L376.avi	42125	2950.7853	136	1727													Open Water			Open					100
+POC26001_L376.avi	42125	2950.7853	405	1727													Open Water			Open					89.8
+POC26001_L376.avi	42125	2950.7853	675	1727													Open Water			Open					89.8
+POC26001_L376.avi	42125	2950.7853	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	None		82001015	100
+POC26002_L374.avi	36241	3027.2547	136	193													Open Water			Open					100
+POC26002_L374.avi	36241	3027.2547	405	193													Open Water			Open					89.8
+POC26002_L374.avi	36241	3027.2547	675	193													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	2D	Ripples (<10cm height)	82001015	89.8
+POC26002_L374.avi	36241	3027.2547	944	193													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	2D	Ripples (<10cm height)	82001015	100
+POC26002_L374.avi	36241	3027.2547	136	576													Open Water			Open					64.3
+POC26002_L374.avi	36241	3027.2547	405	576													Open Water			Open					46.9
+POC26002_L374.avi	36241	3027.2547	675	576													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	2D	Ripples (<10cm height)	82001015	46.9
+POC26002_L374.avi	36241	3027.2547	944	576													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	2D	Ripples (<10cm height)	82001015	64.3
+POC26002_L374.avi	36241	3027.2547	136	960													Open Water			Open					46.6
+POC26002_L374.avi	36241	3027.2547	405	960													Open Water			Open					15.5
+POC26002_L374.avi	36241	3027.2547	675	960													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	2D	Ripples (<10cm height)	82001015	15.5
+POC26002_L374.avi	36241	3027.2547	944	960													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	2D	Ripples (<10cm height)	82001015	46.6
+POC26002_L374.avi	36241	3027.2547	136	1344													Open Water			Open					64.3
+POC26002_L374.avi	36241	3027.2547	405	1344													Open Water			Open					46.9
+POC26002_L374.avi	36241	3027.2547	675	1344													Open Water			Open					46.9
+POC26002_L374.avi	36241	3027.2547	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	2D	Ripples (<10cm height)	82001015	64.3
+POC26002_L374.avi	36241	3027.2547	136	1727													Open Water			Open					100
+POC26002_L374.avi	36241	3027.2547	405	1727													Open Water			Open					89.8
+POC26002_L374.avi	36241	3027.2547	675	1727													Open Water			Open					89.8
+POC26002_L374.avi	36241	3027.2547	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	2D	Ripples (<10cm height)	82001015	100
+POC26003_L377.avi	47809	3119.6867	136	193													Open Water			Open					100
+POC26003_L377.avi	47809	3119.6867	405	193													Open Water			Open					89.8
+POC26003_L377.avi	47809	3119.6867	675	193													Open Water			Open					89.8
+POC26003_L377.avi	47809	3119.6867	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC26003_L377.avi	47809	3119.6867	136	576													Open Water			Open					64.3
+POC26003_L377.avi	47809	3119.6867	405	576													Open Water			Open					46.9
+POC26003_L377.avi	47809	3119.6867	675	576													Open Water			Open					46.9
+POC26003_L377.avi	47809	3119.6867	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC26003_L377.avi	47809	3119.6867	136	960													Open Water			Open					46.6
+POC26003_L377.avi	47809	3119.6867	405	960													Open Water			Open					15.5
+POC26003_L377.avi	47809	3119.6867	675	960													Open Water			Open					15.5
+POC26003_L377.avi	47809	3119.6867	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC26003_L377.avi	47809	3119.6867	136	1344													Open Water			Open					64.3
+POC26003_L377.avi	47809	3119.6867	405	1344													Open Water			Open					46.9
+POC26003_L377.avi	47809	3119.6867	675	1344													Open Water			Open					46.9
+POC26003_L377.avi	47809	3119.6867	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC26003_L377.avi	47809	3119.6867	136	1727													Open Water			Open					100
+POC26003_L377.avi	47809	3119.6867	405	1727													Open Water			Open					89.8
+POC26003_L377.avi	47809	3119.6867	675	1727													Open Water			Open					89.8
+POC26003_L377.avi	47809	3119.6867	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC26004_R372.avi	45547	5661.7113	136	193													Open Water			Open					100
+POC26004_R372.avi	45547	5661.7113	405	193													Open Water			Open					89.8
+POC26004_R372.avi	45547	5661.7113	675	193													Open Water			Open					89.8
+POC26004_R372.avi	45547	5661.7113	944	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC26004_R372.avi	45547	5661.7113	136	576													Open Water			Open					64.3
+POC26004_R372.avi	45547	5661.7113	405	576													Open Water			Open					46.9
+POC26004_R372.avi	45547	5661.7113	675	576													Open Water			Open					46.9
+POC26004_R372.avi	45547	5661.7113	944	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC26004_R372.avi	45547	5661.7113	136	960													Open Water			Open					46.6
+POC26004_R372.avi	45547	5661.7113	405	960													Open Water			Open					15.5
+POC26004_R372.avi	45547	5661.7113	675	960													Open Water			Open					15.5
+POC26004_R372.avi	45547	5661.7113	944	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.6
+POC26004_R372.avi	45547	5661.7113	136	1344													Open Water			Open					64.3
+POC26004_R372.avi	45547	5661.7113	405	1344													Open Water			Open					46.9
+POC26004_R372.avi	45547	5661.7113	675	1344													Open Water			Open					46.9
+POC26004_R372.avi	45547	5661.7113	944	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC26004_R372.avi	45547	5661.7113	136	1727													Open Water			Open					100
+POC26004_R372.avi	45547	5661.7113	405	1727													Open Water			Open					89.8
+POC26004_R372.avi	45547	5661.7113	675	1727													Open Water			Open					89.8
+POC26004_R372.avi	45547	5661.7113	944	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC26005_L367.avi	35219	3288.7493	136	193													Open Water			Open					100
+POC26005_L367.avi	35219	3288.7493	405	193													Open Water			Open					89.8
+POC26005_L367.avi	35219	3288.7493	675	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC26005_L367.avi	35219	3288.7493	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC26005_L367.avi	35219	3288.7493	136	576													Open Water			Open					64.3
+POC26005_L367.avi	35219	3288.7493	405	576													Open Water			Open					46.9
+POC26005_L367.avi	35219	3288.7493	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC26005_L367.avi	35219	3288.7493	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC26005_L367.avi	35219	3288.7493	136	960													Open Water			Open					46.6
+POC26005_L367.avi	35219	3288.7493	405	960													Open Water			Open					15.5
+POC26005_L367.avi	35219	3288.7493	675	960													Open Water			Open					15.5
+POC26005_L367.avi	35219	3288.7493	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC26005_L367.avi	35219	3288.7493	136	1344													Open Water			Open					64.3
+POC26005_L367.avi	35219	3288.7493	405	1344													Open Water			Open					46.9
+POC26005_L367.avi	35219	3288.7493	675	1344													Open Water			Open					46.9
+POC26005_L367.avi	35219	3288.7493	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC26005_L367.avi	35219	3288.7493	136	1727													Open Water			Open					100
+POC26005_L367.avi	35219	3288.7493	405	1727													Open Water			Open					89.8
+POC26005_L367.avi	35219	3288.7493	675	1727													Open Water			Open					89.8
+POC26005_L367.avi	35219	3288.7493	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC37001_R368.avi	53716	1392.0573	136	193													Open Water			Open					100
+POC37001_R368.avi	53716	1392.0573	405	193													Open Water			Open					89.8
+POC37001_R368.avi	53716	1392.0573	675	193													Open Water			Open					89.8
+POC37001_R368.avi	53716	1392.0573	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC37001_R368.avi	53716	1392.0573	136	576													Open Water			Open					64.3
+POC37001_R368.avi	53716	1392.0573	405	576													Open Water			Open					46.9
+POC37001_R368.avi	53716	1392.0573	675	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC37001_R368.avi	53716	1392.0573	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC37001_R368.avi	53716	1392.0573	136	960													Open Water			Open					46.6
+POC37001_R368.avi	53716	1392.0573	405	960													Open Water			Open					15.5
+POC37001_R368.avi	53716	1392.0573	675	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	15.5
+POC37001_R368.avi	53716	1392.0573	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC37001_R368.avi	53716	1392.0573	136	1344													Open Water			Open					64.3
+POC37001_R368.avi	53716	1392.0573	405	1344													Open Water			Open					46.9
+POC37001_R368.avi	53716	1392.0573	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC37001_R368.avi	53716	1392.0573	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC37001_R368.avi	53716	1392.0573	136	1727													Open Water			Open					100
+POC37001_R368.avi	53716	1392.0573	405	1727													Open Water			Open					89.8
+POC37001_R368.avi	53716	1392.0573	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC37001_R368.avi	53716	1392.0573	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC37002_R372.avi	25057	1452.5913	136	193													Open Water			Open					100
+POC37002_R372.avi	25057	1452.5913	405	193													Open Water			Open					89.8
+POC37002_R372.avi	25057	1452.5913	675	193													Open Water			Open					89.8
+POC37002_R372.avi	25057	1452.5913	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC37002_R372.avi	25057	1452.5913	136	576													Open Water			Open					64.3
+POC37002_R372.avi	25057	1452.5913	405	576													Open Water			Open					46.9
+POC37002_R372.avi	25057	1452.5913	675	576													Open Water			Open					46.9
+POC37002_R372.avi	25057	1452.5913	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC37002_R372.avi	25057	1452.5913	136	960													Open Water			Open					46.6
+POC37002_R372.avi	25057	1452.5913	405	960													Open Water			Open					15.5
+POC37002_R372.avi	25057	1452.5913	675	960													Open Water			Open					15.5
+POC37002_R372.avi	25057	1452.5913	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC37002_R372.avi	25057	1452.5913	136	1344													Open Water			Open					64.3
+POC37002_R372.avi	25057	1452.5913	405	1344													Open Water			Open					46.9
+POC37002_R372.avi	25057	1452.5913	675	1344													Open Water			Open					46.9
+POC37002_R372.avi	25057	1452.5913	944	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC37002_R372.avi	25057	1452.5913	136	1727													Open Water			Open					100
+POC37002_R372.avi	25057	1452.5913	405	1727													Open Water			Open					89.8
+POC37002_R372.avi	25057	1452.5913	675	1727													Open Water			Open					89.8
+POC37002_R372.avi	25057	1452.5913	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC37003_L378.avi	12380	1530.052	136	193													Open Water			Open					100
+POC37003_L378.avi	12380	1530.052	405	193													Open Water			Open					89.8
+POC37003_L378.avi	12380	1530.052	675	193													Open Water			Open					89.8
+POC37003_L378.avi	12380	1530.052	944	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC37003_L378.avi	12380	1530.052	136	576													Open Water			Open					64.3
+POC37003_L378.avi	12380	1530.052	405	576													Open Water			Open					46.9
+POC37003_L378.avi	12380	1530.052	675	576													Open Water			Open					46.9
+POC37003_L378.avi	12380	1530.052	944	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC37003_L378.avi	12380	1530.052	136	960													Open Water			Open					46.6
+POC37003_L378.avi	12380	1530.052	405	960													Open Water			Open					15.5
+POC37003_L378.avi	12380	1530.052	675	960													Open Water			Open					15.5
+POC37003_L378.avi	12380	1530.052	944	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.6
+POC37003_L378.avi	12380	1530.052	136	1344													Open Water			Open					64.3
+POC37003_L378.avi	12380	1530.052	405	1344													Open Water			Open					46.9
+POC37003_L378.avi	12380	1530.052	675	1344													Open Water			Open					46.9
+POC37003_L378.avi	12380	1530.052	944	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC37003_L378.avi	12380	1530.052	136	1727													Open Water			Open					100
+POC37003_L378.avi	12380	1530.052	405	1727													Open Water			Open					89.8
+POC37003_L378.avi	12380	1530.052	675	1727													Open Water			Open					89.8
+POC37003_L378.avi	12380	1530.052	944	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC37004_R373.avi	21193	1629.1113	136	193													Open Water			Open					100
+POC37004_R373.avi	21193	1629.1113	405	193													Open Water			Open					89.8
+POC37004_R373.avi	21193	1629.1113	675	193													Open Water			Open					89.8
+POC37004_R373.avi	21193	1629.1113	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC37004_R373.avi	21193	1629.1113	136	576													Open Water			Open					64.3
+POC37004_R373.avi	21193	1629.1113	405	576													Open Water			Open					46.9
+POC37004_R373.avi	21193	1629.1113	675	576													Open Water			Open					46.9
+POC37004_R373.avi	21193	1629.1113	944	576													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	64.3
+POC37004_R373.avi	21193	1629.1113	136	960													Open Water			Open					46.6
+POC37004_R373.avi	21193	1629.1113	405	960													Open Water			Open					15.5
+POC37004_R373.avi	21193	1629.1113	675	960													Open Water			Open					15.5
+POC37004_R373.avi	21193	1629.1113	944	960													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.6
+POC37004_R373.avi	21193	1629.1113	136	1344													Open Water			Open					64.3
+POC37004_R373.avi	21193	1629.1113	405	1344													Open Water			Open					46.9
+POC37004_R373.avi	21193	1629.1113	675	1344													Open Water			Open					46.9
+POC37004_R373.avi	21193	1629.1113	944	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC37004_R373.avi	21193	1629.1113	136	1727													Open Water			Open					100
+POC37004_R373.avi	21193	1629.1113	405	1727													Open Water			Open					89.8
+POC37004_R373.avi	21193	1629.1113	675	1727													Open Water			Open					89.8
+POC37004_R373.avi	21193	1629.1113	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	Bioturbated		82001015	100
+POC37005_R375.avi	61501	1744.5513	136	193													Open Water			Open					100
+POC37005_R375.avi	61501	1744.5513	405	193													Open Water			Open					89.8
+POC37005_R375.avi	61501	1744.5513	675	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	89.8
+POC37005_R375.avi	61501	1744.5513	944	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC37005_R375.avi	61501	1744.5513	136	576													Open Water			Open					64.3
+POC37005_R375.avi	61501	1744.5513	405	576													Open Water			Open					46.9
+POC37005_R375.avi	61501	1744.5513	675	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.9
+POC37005_R375.avi	61501	1744.5513	944	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC37005_R375.avi	61501	1744.5513	136	960													Open Water			Open					46.6
+POC37005_R375.avi	61501	1744.5513	405	960													Open Water			Open					15.5
+POC37005_R375.avi	61501	1744.5513	675	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	15.5
+POC37005_R375.avi	61501	1744.5513	944	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.6
+POC37005_R375.avi	61501	1744.5513	136	1344													Open Water			Open					64.3
+POC37005_R375.avi	61501	1744.5513	405	1344													Open Water			Open					46.9
+POC37005_R375.avi	61501	1744.5513	675	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.9
+POC37005_R375.avi	61501	1744.5513	944	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC37005_R375.avi	61501	1744.5513	136	1727													Open Water			Open					100
+POC37005_R375.avi	61501	1744.5513	405	1727													Open Water			Open					89.8
+POC37005_R375.avi	61501	1744.5513	675	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	89.8
+POC37005_R375.avi	61501	1744.5513	944	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC38001_L376.avi	45933	3391.412	136	193													Open Water			Open					100
+POC38001_L376.avi	45933	3391.412	405	193													Open Water			Open					89.8
+POC38001_L376.avi	45933	3391.412	675	193													Open Water			Open					89.8
+POC38001_L376.avi	45933	3391.412	944	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC38001_L376.avi	45933	3391.412	136	576													Open Water			Open					64.3
+POC38001_L376.avi	45933	3391.412	405	576													Open Water			Open					46.9
+POC38001_L376.avi	45933	3391.412	675	576													Open Water			Open					46.9
+POC38001_L376.avi	45933	3391.412	944	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC38001_L376.avi	45933	3391.412	136	960													Open Water			Open					46.6
+POC38001_L376.avi	45933	3391.412	405	960													Open Water			Open					15.5
+POC38001_L376.avi	45933	3391.412	675	960													Open Water			Open					15.5
+POC38001_L376.avi	45933	3391.412	944	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.6
+POC38001_L376.avi	45933	3391.412	136	1344													Open Water			Open					64.3
+POC38001_L376.avi	45933	3391.412	405	1344													Open Water			Open					46.9
+POC38001_L376.avi	45933	3391.412	675	1344													Open Water			Open					46.9
+POC38001_L376.avi	45933	3391.412	944	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC38001_L376.avi	45933	3391.412	136	1727													Open Water			Open					100
+POC38001_L376.avi	45933	3391.412	405	1727													Open Water			Open					89.8
+POC38001_L376.avi	45933	3391.412	675	1727													Open Water			Open					89.8
+POC38001_L376.avi	45933	3391.412	944	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC38002_L374.avi	55728	3479.206	136	193													Open Water			Open					100
+POC38002_L374.avi	55728	3479.206	405	193													Open Water			Open					89.8
+POC38002_L374.avi	55728	3479.206	675	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	89.8
+POC38002_L374.avi	55728	3479.206	944	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC38002_L374.avi	55728	3479.206	136	576													Open Water			Open					64.3
+POC38002_L374.avi	55728	3479.206	405	576													Open Water			Open					46.9
+POC38002_L374.avi	55728	3479.206	675	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.9
+POC38002_L374.avi	55728	3479.206	944	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC38002_L374.avi	55728	3479.206	136	960													Open Water			Open					46.6
+POC38002_L374.avi	55728	3479.206	405	960													Open Water			Open					15.5
+POC38002_L374.avi	55728	3479.206	675	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	15.5
+POC38002_L374.avi	55728	3479.206	944	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.6
+POC38002_L374.avi	55728	3479.206	136	1344													Open Water			Open					64.3
+POC38002_L374.avi	55728	3479.206	405	1344													Open Water			Open					46.9
+POC38002_L374.avi	55728	3479.206	675	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.9
+POC38002_L374.avi	55728	3479.206	944	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC38002_L374.avi	55728	3479.206	136	1727													Open Water			Open					100
+POC38002_L374.avi	55728	3479.206	405	1727													Open Water			Open					89.8
+POC38002_L374.avi	55728	3479.206	675	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	89.8
+POC38002_L374.avi	55728	3479.206	944	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC38004_L371.avi	32013	3549.052	136	193													Open Water			Limited					100
+POC38004_L371.avi	32013	3549.052	405	193													Open Water			Limited					89.8
+POC38004_L371.avi	32013	3549.052	675	193													Open Water			Limited					89.8
+POC38004_L371.avi	32013	3549.052	944	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC38004_L371.avi	32013	3549.052	136	576													Open Water			Limited					64.3
+POC38004_L371.avi	32013	3549.052	405	576													Open Water			Limited					46.9
+POC38004_L371.avi	32013	3549.052	675	576													Open Water			Limited					46.9
+POC38004_L371.avi	32013	3549.052	944	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC38004_L371.avi	32013	3549.052	136	960													Open Water			Limited					46.6
+POC38004_L371.avi	32013	3549.052	405	960													Open Water			Limited					15.5
+POC38004_L371.avi	32013	3549.052	675	960													Open Water			Limited					15.5
+POC38004_L371.avi	32013	3549.052	944	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.6
+POC38004_L371.avi	32013	3549.052	136	1344													Open Water			Limited					64.3
+POC38004_L371.avi	32013	3549.052	405	1344													Open Water			Limited					46.9
+POC38004_L371.avi	32013	3549.052	675	1344													Open Water			Limited					46.9
+POC38004_L371.avi	32013	3549.052	944	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC38004_L371.avi	32013	3549.052	136	1727													Open Water			Limited					100
+POC38004_L371.avi	32013	3549.052	405	1727													Open Water			Limited					89.8
+POC38004_L371.avi	32013	3549.052	675	1727													Open Water			Limited					89.8
+POC38004_L371.avi	32013	3549.052	944	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC38005_L367.avi	100740	3693.49	136	193													Open Water			Open					100
+POC38005_L367.avi	100740	3693.49	405	193													Open Water			Open					89.8
+POC38005_L367.avi	100740	3693.49	675	193													Open Water			Open					89.8
+POC38005_L367.avi	100740	3693.49	944	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC38005_L367.avi	100740	3693.49	136	576													Open Water			Open					64.3
+POC38005_L367.avi	100740	3693.49	405	576													Open Water			Open					46.9
+POC38005_L367.avi	100740	3693.49	675	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.9
+POC38005_L367.avi	100740	3693.49	944	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC38005_L367.avi	100740	3693.49	136	960													Open Water			Open					46.6
+POC38005_L367.avi	100740	3693.49	405	960													Open Water			Open					15.5
+POC38005_L367.avi	100740	3693.49	675	960													Open Water			Open					15.5
+POC38005_L367.avi	100740	3693.49	944	960													Octocoral/Black	Branching (3D)	Type 2	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	None		11168902	46.6
+POC38005_L367.avi	100740	3693.49	136	1344													Open Water			Open					64.3
+POC38005_L367.avi	100740	3693.49	405	1344													Open Water			Open					46.9
+POC38005_L367.avi	100740	3693.49	675	1344													Open Water			Open					46.9
+POC38005_L367.avi	100740	3693.49	944	1344													Octocoral/Black	Branching (3D)	Type 2	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.	None		11168902	64.3
+POC38005_L367.avi	100740	3693.49	136	1727													Open Water			Open					100
+POC38005_L367.avi	100740	3693.49	405	1727													Open Water			Open					89.8
+POC38005_L367.avi	100740	3693.49	675	1727													Open Water			Open					89.8
+POC38005_L367.avi	100740	3693.49	944	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC39001_L367.avi	45682	3763.472	136	193													Open Water			Open					100
+POC39001_L367.avi	45682	3763.472	405	193													Open Water			Open					89.8
+POC39001_L367.avi	45682	3763.472	675	193													Open Water			Open					89.8
+POC39001_L367.avi	45682	3763.472	944	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC39001_L367.avi	45682	3763.472	136	576													Open Water			Open					64.3
+POC39001_L367.avi	45682	3763.472	405	576													Open Water			Open					46.9
+POC39001_L367.avi	45682	3763.472	675	576													Open Water			Open					46.9
+POC39001_L367.avi	45682	3763.472	944	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC39001_L367.avi	45682	3763.472	136	960													Open Water			Open					46.6
+POC39001_L367.avi	45682	3763.472	405	960													Open Water			Open					15.5
+POC39001_L367.avi	45682	3763.472	675	960													Open Water			Open					15.5
+POC39001_L367.avi	45682	3763.472	944	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.6
+POC39001_L367.avi	45682	3763.472	136	1344													Open Water			Open					64.3
+POC39001_L367.avi	45682	3763.472	405	1344													Open Water			Open					46.9
+POC39001_L367.avi	45682	3763.472	675	1344													Open Water			Open					46.9
+POC39001_L367.avi	45682	3763.472	944	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC39001_L367.avi	45682	3763.472	136	1727													Open Water			Open					100
+POC39001_L367.avi	45682	3763.472	405	1727													Open Water			Open					89.8
+POC39001_L367.avi	45682	3763.472	675	1727													Open Water			Open					89.8
+POC39001_L367.avi	45682	3763.472	944	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC39002_R372.avi	72691	3945.4993	136	193													Open Water			Open					100
+POC39002_R372.avi	72691	3945.4993	405	193													Open Water			Open					89.8
+POC39002_R372.avi	72691	3945.4993	675	193													Open Water			Open					89.8
+POC39002_R372.avi	72691	3945.4993	944	193													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC39002_R372.avi	72691	3945.4993	136	576													Open Water			Open					64.3
+POC39002_R372.avi	72691	3945.4993	405	576													Open Water			Open					46.9
+POC39002_R372.avi	72691	3945.4993	675	576													Open Water			Open					46.9
+POC39002_R372.avi	72691	3945.4993	944	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC39002_R372.avi	72691	3945.4993	136	960													Open Water			Open					46.6
+POC39002_R372.avi	72691	3945.4993	405	960													Open Water			Open					15.5
+POC39002_R372.avi	72691	3945.4993	675	960													Open Water			Open					15.5
+POC39002_R372.avi	72691	3945.4993	944	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.6
+POC39002_R372.avi	72691	3945.4993	136	1344													Open Water			Open					64.3
+POC39002_R372.avi	72691	3945.4993	405	1344													Open Water			Open					46.9
+POC39002_R372.avi	72691	3945.4993	675	1344													Open Water			Open					46.9
+POC39002_R372.avi	72691	3945.4993	944	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC39002_R372.avi	72691	3945.4993	136	1727													Open Water			Open					100
+POC39002_R372.avi	72691	3945.4993	405	1727													Open Water			Open					89.8
+POC39002_R372.avi	72691	3945.4993	675	1727													Open Water			Open					89.8
+POC39002_R372.avi	72691	3945.4993	944	1727													Unconsolidated	Sand / mud (coarse sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	None		82001014	100
+POC39003_L377.avi	59809	4020.9827	136	193													Open Water			Open					100
+POC39003_L377.avi	59809	4020.9827	405	193													Open Water			Open					89.8
+POC39003_L377.avi	59809	4020.9827	675	193													Open Water			Open					89.8
+POC39003_L377.avi	59809	4020.9827	944	193													Unconsolidated	Sand / mud (coarse sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	None		82001014	100
+POC39003_L377.avi	59809	4020.9827	136	576													Open Water			Open					64.3
+POC39003_L377.avi	59809	4020.9827	405	576													Open Water			Open					46.9
+POC39003_L377.avi	59809	4020.9827	675	576													Open Water			Open					46.9
+POC39003_L377.avi	59809	4020.9827	944	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC39003_L377.avi	59809	4020.9827	136	960													Open Water			Open					46.6
+POC39003_L377.avi	59809	4020.9827	405	960													Open Water			Open					15.5
+POC39003_L377.avi	59809	4020.9827	675	960													Open Water			Open					15.5
+POC39003_L377.avi	59809	4020.9827	944	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.6
+POC39003_L377.avi	59809	4020.9827	136	1344													Open Water			Open					64.3
+POC39003_L377.avi	59809	4020.9827	405	1344													Open Water			Open					46.9
+POC39003_L377.avi	59809	4020.9827	675	1344													Open Water			Open					46.9
+POC39003_L377.avi	59809	4020.9827	944	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC39003_L377.avi	59809	4020.9827	136	1727													Open Water			Open					100
+POC39003_L377.avi	59809	4020.9827	405	1727													Open Water			Open					89.8
+POC39003_L377.avi	59809	4020.9827	675	1727													Open Water			Open					89.8
+POC39003_L377.avi	59809	4020.9827	944	1727													Unconsolidated	Sand / mud (coarse sand)		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.	None		82001014	100
+POC39004_L374.avi	53454	4107.61	136	193													Open Water			Open					100
+POC39004_L374.avi	53454	4107.61	405	193													Open Water			Open					89.8
+POC39004_L374.avi	53454	4107.61	675	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	89.8
+POC39004_L374.avi	53454	4107.61	944	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC39004_L374.avi	53454	4107.61	136	576													Open Water			Open					64.3
+POC39004_L374.avi	53454	4107.61	405	576													Open Water			Open					46.9
+POC39004_L374.avi	53454	4107.61	675	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.9
+POC39004_L374.avi	53454	4107.61	944	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC39004_L374.avi	53454	4107.61	136	960													Open Water			Open					46.6
+POC39004_L374.avi	53454	4107.61	405	960													Open Water			Open					15.5
+POC39004_L374.avi	53454	4107.61	675	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	15.5
+POC39004_L374.avi	53454	4107.61	944	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.6
+POC39004_L374.avi	53454	4107.61	136	1344													Open Water			Open					64.3
+POC39004_L374.avi	53454	4107.61	405	1344													Open Water			Open					46.9
+POC39004_L374.avi	53454	4107.61	675	1344													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	46.9
+POC39004_L374.avi	53454	4107.61	944	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC39004_L374.avi	53454	4107.61	136	1727													Open Water			Open					100
+POC39004_L374.avi	53454	4107.61	405	1727													Open Water			Open					89.8
+POC39004_L374.avi	53454	4107.61	675	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	89.8
+POC39004_L374.avi	53454	4107.61	944	1727													Unconsolidated	Sand / mud (fine sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001015	100
+POC39005_L376.avi	36075	4790.76	136	193													Open Water			Open					100
+POC39005_L376.avi	36075	4790.76	405	193													Open Water			Open					89.8
+POC39005_L376.avi	36075	4790.76	675	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	89.8
+POC39005_L376.avi	36075	4790.76	944	193													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
+POC39005_L376.avi	36075	4790.76	136	576													Open Water			Open					64.3
+POC39005_L376.avi	36075	4790.76	405	576													Open Water			Open					46.9
+POC39005_L376.avi	36075	4790.76	675	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.9
+POC39005_L376.avi	36075	4790.76	944	576													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC39005_L376.avi	36075	4790.76	136	960													Open Water			Open					46.6
+POC39005_L376.avi	36075	4790.76	405	960													Open Water			Open					15.5
+POC39005_L376.avi	36075	4790.76	675	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	15.5
+POC39005_L376.avi	36075	4790.76	944	960													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.6
+POC39005_L376.avi	36075	4790.76	136	1344													Open Water			Open					64.3
+POC39005_L376.avi	36075	4790.76	405	1344													Open Water			Open					46.9
+POC39005_L376.avi	36075	4790.76	675	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	46.9
+POC39005_L376.avi	36075	4790.76	944	1344													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	64.3
+POC39005_L376.avi	36075	4790.76	136	1727													Open Water			Open					100
+POC39005_L376.avi	36075	4790.76	405	1727													Open Water			Open					89.8
+POC39005_L376.avi	36075	4790.76	675	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	89.8
+POC39005_L376.avi	36075	4790.76	944	1727													Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	100
