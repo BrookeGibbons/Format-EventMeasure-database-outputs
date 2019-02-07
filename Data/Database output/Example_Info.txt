@@ -1,0 +1,59 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+POC13004	Matt Hammond	105																	
+POC24010	Rolim																		
+POC12007	Michael Brooker	125																	
+POC25002	Matt Hammond	121	Bad vis, right cam no good																
+POC24008	Rolim																		
+POC13001	Matt Hammond	104																	
+POC25004	Matt Hammond	123																	
+POC37004	Michael Brooker	123																	
+POC13002	Matt Hammond	104																	
+POC26005	Michael Brooker	120																	
+POC12009	Michael Brooker	123																	
+POC13007	Rolim																		
+POC38004	Rolim																		
+POC13009	Rolim																		
+POC39002	Rolim																		
+POC38002	Rolim																		
+POC24009	Rolim																		
+POC12001	Michael Brooker	114																	
+POC11013	Matt Hammond	124																	
+POC11002	Brooke Gibbons																		
+POC38005	Brooke Gibbons																		
+POC13005	Matt Hammond	106																	
+POC37003	Rolim																		
+POC37005	Michael Brooker	123																	
+POC39001	Rolim																		
+POC12002	Rolim																		
+POC11014	Matt Hammond	124																	
+POC11009	Brooke Gibbons	124																	
+POC11011	Michael Brooker	123																	
+POC24006	Rolim																		
+POC11003	Michael Brooker	99																	
+POC12003	Matt Hammond	106																	
+POC11004	Michael Brooker	99.5																	
+POC13008	Matt Hammond	122																	
+POC13010	Michael Brooker	121																	
+POC11012	Michael Brooker	125																	
+POC11015	Matt Hammond	124																	
+POC12010	Brooke Gibbons	124																	
+POC26003	Rolim																		
+POC26001	Rolim																		
+POC25001	Brooke Gibbons																		
+POC24007	Rolim																		
+POC12006	Matt Hammond																		
+POC39004	Rolim																		
+POC38001	Brooke Gibbons																		
+POC25005	Michael Brooker	121																	
+POC37002	Michael Brooker	123																	
+POC13003	Matt Hammond	106																	
+POC12005	Matt Hammond	113																	
+POC12004	Rolim																		
+POC12008	Rolim																		
+POC39005	Rolim																		
+POC11001	Rolim																		
+POC37001	Michael Brooker	123																	
+POC39003	Matt Hammond	122	bad vis																
+POC11005	Rolim																		
+POC26002	Matt Hammond	122																	
+POC26004	Michael Brooker	121																	

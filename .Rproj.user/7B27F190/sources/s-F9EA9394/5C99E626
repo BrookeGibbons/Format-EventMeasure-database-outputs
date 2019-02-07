@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549498494410.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5C99E626",
+    "lastKnownWriteTime" : 1549511474,
+    "last_content_update" : 1549511474911,
+    "path" : "C:/GitHub/Format-EventMeasure-database-outputs/Scripts/1_Format.habitat.data.R",
+    "project_path" : "Scripts/1_Format.habitat.data.R",
+    "properties" : {
+        "cursorPosition" : "177,0",
+        "scrollLine" : "142"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

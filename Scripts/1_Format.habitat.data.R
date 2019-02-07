@@ -1,12 +1,12 @@
-### Importing Habitat Annotation points from TransectMeasure (Stereo)----
+### Importing Habitat Annotation points from TransectMeasure (Stereo) ###
 ### Written by Tim Langlois, adpated and edited by Brooke Gibbons
 
 ### Please forward any updates and improvements to timothy.langlois@uwa.edu.au & brooke.gibbons@uwa.edu.au 
 ### or make a pull request on the GitHub repository "Format-EventMeasure-database-outputs"
 
-### OBJECTIVE
-# 1 Import and combine data from .txt file data collected in a 4 x 5 grid of CATAMI and relief codes
-# 2 Make % scores and levels for different groups
+### OBJECTIVES ###
+# 1. Import and combine data from .txt file data collected in a 4 x 5 grid of CATAMI and relief codes
+# 2. Make % scores and levels for different groups
 
 # Clear memory ----
 rm(list=ls())
@@ -25,17 +25,19 @@ study<-"Example" ## change for your project
 work.dir=("C:/GitHub/Format-EventMeasure-database-outputs") ## Change to your directory
 
 # Set sub directories----
-data.dir=paste(work.dir,"Database output",sep="/")
 plots.dir=paste(work.dir,"Plots",sep="/")
-tidy.dir=paste(work.dir,"Tidy data",sep="/")
+data.dir=paste(work.dir,"Data",sep="/")
+export.dir=paste(data.dir,"Database output",sep="/")
+temp.dir=paste(data.dir,"Temporary data",sep="/")
+tidy.dir=paste(data.dir,"Tidy data",sep="/")
 
 # Load metadata ----
-setwd(work.dir)
+setwd(data.dir)
 metadata<-read.csv(paste(study,"metadata.csv",sep="_"))%>%
   setNames(tolower(names(.)))
 
 # Load and format habitat annotation data from TransectMeasure----
-setwd(data.dir)
+setwd(export.dir)
 
 hab<-read.delim(paste(study,"Dot Point Measurements.txt",sep="_"),header=T,skip=4,stringsAsFactors=FALSE)%>%
   setNames(tolower(names(.)))%>%
@@ -79,7 +81,7 @@ relief<-hab%>%
   select(-c(relief))%>%
   mutate(relief.rank=as.numeric(relief.rank))%>%
   group_by(sample)%>%
-  summarise(mean.relief= mean (relief.rank), sd.relief= sd (relief.rank))%>%
+  dplyr::summarise(mean.relief= mean (relief.rank), sd.relief= sd (relief.rank))%>%
   glimpse()
 
 # CREATE catami_broad------

@@ -1,0 +1,9 @@
+"sample","family","genus","species","length","fb.length_max","fb.ltypemaxm","percent.error"
+"POC12006","Synodontidae","Saurida","longimanus",328.43582,250,"TL",31.374328
+"POC12009","Carangidae","Carangoides","caeruleopinnatus",475.01823,410,"TL",15.8581048780488
+"POC11014","Tetraodontidae","Lagocephalus","lunaris",496.49259,450,"SL",10.3316866666667
+"POC39001","Synodontidae","Synodus","indicus",357.40388,330,"TL",8.30420606060606
+"POC12009","Carangidae","Carangoides","caeruleopinnatus",416.52299,410,"TL",1.59097317073171
+"POC12001","Tetraodontidae","Lagocephalus","lunaris",456.3329,450,"SL",1.40731111111111
+"POC12009","Carangidae","Carangoides","caeruleopinnatus",414.63452,410,"TL",1.13037073170732
+"POC11013","Tetraodontidae","Lagocephalus","lunaris",451.08525,450,"SL",0.241166666666661

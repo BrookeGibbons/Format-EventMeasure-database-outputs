@@ -1,35 +1,24 @@
-###### Make complete.maxn and complete.length.number.mass data from Checked.maxn and Checked.length data created from EventMeasure data tables held in GlobalArchive######
-## Milly
-## 06/11/2018
+### Make complete.maxn and complete.length.number.mass data from Checked.maxn and Checked.length data created from EventMeasure data ###
+### Written by Tim Langlois, adpated and edited by Brooke Gibbons
 
-### Written by Tim Langlois 
-### Any errors are due to Tim Langlois
-### Please forward any updates and improvements to timothy.langlois@uwa.edu.au
+### Please forward any updates and improvements to timothy.langlois@uwa.edu.au & brooke.gibbons@uwa.edu.au 
+### or make a pull request on the GitHub repository "Format-EventMeasure-database-outputs"
 
-# The following code forms an appendix to the manuscript:
-#  "Langlois, T. J., L. M. Bellchambers, R. Fisher, G. R. Shiell, J. Goetze, L. Fullwood, S. N. Evans, N. Konzewitsch, E. S. Harvey, and M. B. Pember. 2016. Investigating ecosystem processes using targeted fisheries closures: can small-bodied invertivore fish be used as indicators for the effects of western rock lobster fishing? Marine and Freshwater Research."
-
-# Please cite it if you like it
-
-### objective is to 
-
+### OBJECTIVES ###
 # 1. Import checked data
 # 2. Make factors
 # 3. Make complete.maxn data -  PeriodTime will represent the first PeriodTime of MaxN if PeriodTime has been set to zero at Time os Seabed in EM.
-      # a. useful for abundance metrics - that do not account for body size or range/sample unit size
+    # a. useful for abundance metrics - that do not account for body size or range/sample unit size
 # 4. Make complete.length.number.mass data:
     # a. useful for calculating abundance/mass based on length rules - and that account for range/sample unit size
     # b. useful for length analyses (e.g. mean length, KDE, histograms) - after expansion
 # 5. Make mass estimates from Length using a and b from Master list
 # 6. Write complete data sets for further analysis
 
+# Clear memory ----
+rm(list=ls())
 
-# Naming conventions----
-# data objects in lower case
-# column names Capitalized
-
-
-# Libraries required
+# Libraries required ----
 library(tidyr)
 library(dplyr)
 library(ggplot2)
@@ -38,10 +27,8 @@ library(readr)
 library(httpuv)
 library(stringr)
 
-
-# Study name----
-rm(list=ls()) #clear memory
-study<-"POC"
+# Study name---
+study<-"Example" ## change for your project
 
 # A function we should use throughout-----TJL------
 clean_names <- function(dat){
@@ -56,42 +43,36 @@ clean_names <- function(dat){
   setNames(dat, new_names)
 }
 
-
-# Set work directory----
-#work.dir=("~/Google Drive/Analysis/Project_RPS_OldCoastLine/Analysis_RPS_OldCoastLine/") #TIM ??
-#work.dir=("C://Users/Milly/Google Drive/Project_RPS_OldCoastLine/Analysis_RPS_OldCoastLine/") ## Milly PC
-work.dir=("~/Google Drive/Project_RPS_OldCoastLine/Analysis_RPS_OldCoastLine/") ## Milly Mac
-work.dir=("C:/Users/00097191/Google Drive/MEG/Projects/Project_RPS_OldCoastLine/Analysis_RPS_OldCoastLine") ## Brooke
+# Set working directory ----
+work.dir=("C:/GitHub/Format-EventMeasure-database-outputs") ## Change to your directory
 
 # Set sub directories----
-data.dir=paste(work.dir,"Data/Data cleaning",sep="/")
-em.data.dir=paste(work.dir,"Data/EM data",sep="/")
-tidy.data.dir=paste(work.dir,"Data/Tidy data",sep="/")
 plots.dir=paste(work.dir,"Plots",sep="/")
+data.dir=paste(work.dir,"Data",sep="/")
+export.dir=paste(data.dir,"Database output",sep="/")
+temp.dir=paste(data.dir,"Temporary data",sep="/")
+tidy.dir=paste(data.dir,"Tidy data",sep="/")
 
 # Read in the data----
-setwd(tidy.data.dir)
+setwd(tidy.dir)
 dir()
 
 # Make species families to merge back in after data is complete -----
-maxn.families<-read_csv(file=paste(study,"checked.maxn.csv",sep = "."),na = c("", " "))%>%
+maxn.families<-read_csv(file=paste(study,"checked.maxn.csv",sep = "_"),na = c("", " "))%>%
   filter(!(family=="Unknown"))%>%
-  select(c(family,genus,species))%>%
-  mutate(scientific=paste(family,genus,species,sep="."))%>%
+  select(c(family,genus,species,scientific))%>%
   distinct() #to join back in after complete
-names(maxn.families)
-# Make complete.maxn from maxn and complete.length.number.mass from length3D----
 
+# Make complete.maxn from maxn and complete.length.number.mass from length3D----
 # Make complete.maxn: fill in 0, make Total and Species Richness and join in factors----
-dat<-read_csv(file=paste(study,"checked.maxn.csv",sep = "."),na = c("", " "))%>%
-  filter(!(family=="Unknown"))%>%
+dat<-read_csv(file=paste(study,"checked.maxn.csv",sep = "_"),na = c("", " "))%>%
   select(c(sample,family,genus,species,maxn))%>%
   complete(sample,nesting(family,genus,species)) %>%
   replace_na(list(maxn = 0))%>%
   group_by(sample,family,genus,species)%>%
   dplyr::summarise(maxn=sum(maxn))%>%
   ungroup()%>% #always a good idea to ungroup() after you have finished using the group_by()!
-  mutate(scientific=paste(family,genus,species,sep="."))%>%
+  mutate(scientific=paste(family,genus,species,sep=" "))%>%
   dplyr::select(sample,scientific,maxn)%>%
   spread(scientific,maxn, fill = 0)%>%
   glimpse()
@@ -109,13 +90,13 @@ complete.maxn<-dat%>%
 
 # Make complete.length.number.mass: fill in 0 and join in factors----
 # This data is useful for calculating abundance based on length rules--
-length.families<-read_csv(file=paste(study,"checked.length.csv",sep = "."),na = c("", " "))%>%
+length.families<-read_csv(file=paste(study,"checked.length.csv",sep = "_"),na = c("", " "))%>%
   filter(!(family=="Unknown"))%>%
   select(family,genus,species)%>%
   distinct()%>% #to join back in after complete
   glimpse()
 
-complete.length.number<-read_csv(file=paste(study,"checked.length.csv",sep = "."))%>% #na = c("", " "))
+complete.length.number<-read_csv(file=paste(study,"checked.length.csv",sep = "_"))%>% #na = c("", " "))
   filter(!(family=="Unknown"))%>%
   dplyr::select(sample,family,genus,species,length,number,range,activity)%>%
   complete(sample,nesting(family,genus,species)) %>%
@@ -128,7 +109,8 @@ complete.length.number<-read_csv(file=paste(study,"checked.length.csv",sep = "."
 
 # MAKE mass data from number.length.complete----
 # Import master from Life-history-
-master<-gs_title("Australia.life.history")%>%gs_read_csv(ws = "australia.life.history")%>%clean_names()%>%
+master<-gs_title("Australia.life.history")%>%
+  gs_read_csv(ws = "australia.life.history")%>%clean_names()%>%
   filter(grepl('Australia', global.region))%>%
   filter(grepl('NW', marine.region))%>%
   dplyr::mutate(all=as.numeric(all))%>%
@@ -195,8 +177,6 @@ complete.length.number.mass<-length.species.ab%>%
 
 
 #5. Check the mass estimates across species - in kg's----
-setwd(tidy.data.dir)
-
 top.mass<- complete.length.number.mass %>%
   dplyr::group_by(family,genus,species)%>%
   filter(mass.g>0)%>%
@@ -212,44 +192,13 @@ top.mass<- complete.length.number.mass %>%
   mutate(mean.length=round(mean.length,digits=2))
 
 # WRITE FINAL complete and expanded data----
-setwd(em.data.dir)
+setwd(tidy.dir)
 dir()
 
-## Set directory to write data to
-setwd(tidy.data.dir)
+write.csv(complete.maxn, file=paste(study,"complete.maxn.csv",sep = "_"), row.names=FALSE)
 
-complete.maxn<-complete.maxn
-write.csv(complete.maxn, file=paste(study,"complete.maxn.csv",sep = "."), row.names=FALSE)
+write.csv(complete.length.number.mass, file=paste(study,"complete.length.number.mass.csv",sep = "_"), row.names=FALSE)
 
-complete.length.number.mass<-complete.length.number.mass
-write.csv(complete.length.number.mass, file=paste(study,"complete.length.number.mass.csv",sep = "."), row.names=FALSE)
-
-complete.length.number<-complete.length.number
-write.csv(complete.length.number, file=paste(study,"complete.length.number.csv",sep = "."), row.names=FALSE)
+write.csv(complete.length.number, file=paste(study,"complete.length.number.csv",sep = "_"), row.names=FALSE)
 
 # GO TO SCRIPT 5
-
-
-
-
-
-
-# # Additional Example of how to expand complete.length.number.mass for calculating hisotgrams, KDEs in further analyses----
-#   
-#   
-#   # Make expanded.length: expand by Number column---
-#   # This data is useful for length analyses (e.g. mean length, KDE, histograms)--
-# expanded.length<-complete.length.number%>%
-#   select(Sample,Genus_species,Family,Length,Number,CampaignID,Latitude,Longitude,Date,Location,Status,Depth)%>%
-#   ungroup()%>%
-#   filter(!is.na(Number))%>%
-#   filter(!is.na(Length))%>%
-#   .[rep(seq.int(1,nrow(.)), .$Number), 1:12]%>% #ensure number of columns is correct
-#     data.frame()
-# head(expanded.length,2)
-# str(expanded.length)
-# names(expanded.length)
-# 
-# x<-"expanded.length"
-# write.csv(expanded.length, file=paste(study,x,".csv",sep = "."), row.names=FALSE)
-# head(expanded.length,2)

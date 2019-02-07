@@ -1,0 +1,7 @@
+"sample","family","genus","species","stereo.maxn","frame","maxn","scientific","percent.diff"
+"POC11009","Carangidae","Carangoides","sp1",1,NA,NA,NA,1
+"POC11014","Tetraodontidae","Lagocephalus","lunaris",1,77584,2,"Tetraodontidae Lagocephalus lunaris",0.5
+"POC12009","Carangidae","Carangoides","caeruleopinnatus",6,92469,9,"Carangidae Carangoides caeruleopinnatus",0.333333333333333
+"POC13004","Unknown","Unknown","spp",1,NA,NA,NA,1
+"POC25005","Carangidae","Carangoides","spp",1,61677,2,"Carangidae Carangoides spp",0.5
+"POC38001","Carangidae","Carangoides","sp1",1,NA,NA,NA,1
